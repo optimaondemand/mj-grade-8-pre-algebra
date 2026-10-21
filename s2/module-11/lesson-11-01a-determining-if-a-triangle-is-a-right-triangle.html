@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lesson 11.01a Determining if a Triangle is a Right Triangle</title>
+<style>html,body{margin:0;padding:0;background:#fff}body{font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#2d3b45}img{max-width:100%;height:auto}video{max-width:100%;height:auto}</style>
+<script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"],["$$","$$"]],processEscapes:true},options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}};</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+</head>
+<body>
+<div style="background: #0E1C42; border-bottom: 5px solid #55C8E8; padding: 22px 34px;">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 10px;">
+        <div style="width: 52px; height: 52px; border-radius: 50%; background: #FFFFFF; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy" style="width: 50px; height: 40px; object-fit: contain;" /></div>
+        <div>
+            <div style="font-size: 28px; color: #ffffff; line-height: 1.2;">Optima Academy Online</div>
+            <div style="font-size: 12px; color: #55c8e8;">An Education Experience Company</div>
+        </div>
+    </div>
+    <div style="font-size: 36px; color: #ffffff; margin-bottom: 6px;">8TH GRADE PRE-ALGEBRA</div>
+</div>
+
+<div style="background: #FFFFFF; border-bottom: 2px solid #D0D9E8; display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Quarter / Module</div>
+        <div style="font-size: 18px; color: #0e1c42;">Q4 &middot; Module 11</div>
+        <div style="font-size: 13px; color: #666;">Triangles and Their Side Lengths</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Lesson</div>
+        <div style="font-size: 18px; color: #0e1c42;">11.01a</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Module Theme</div>
+        <div style="font-size: 16px; color: #0e1c42;">Triangles and Their Side Lengths</div>
+    </div>
+</div>
+
+<div style="padding: 24px 34px;">
+
+<div style="background: #EEF1F8; border-left: 5px solid #0E1C42; border-radius: 7px; padding: 18px 22px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #0e1c42; margin-bottom: 8px;">11.01a</div>
+    <div style="font-size: 22px; color: #0e1c42; margin-bottom: 6px;">Determining if a Triangle is a Right Triangle</div>
+    <div style="font-size: 15px; color: #666;">Lesson</div>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; VOCABULARY</div>
+    <p><strong>Converse of the Pythagorean Theorem:</strong> The Converse of the Pythagorean Theorem states that if the square of the longest side of a triangle (often called the hypotenuse) equals the sum of the squares of the other two sides, then the triangle is a right triangle. In other words, this rule helps us determine if a triangle with certain side lengths can be a right triangle.</p>
+<p><strong>Coordinate:</strong> A coordinate is a number used to identify the location of a point on a graph or grid. It is part of a set of numbers used in a coordinate system, like the x-coordinate and y-coordinate on a coordinate plane, which show positions along the horizontal and vertical axes, respectively.</p>
+<p><strong>Coordinate Plane:</strong> The coordinate plane is a two-dimensional surface on which each point is determined by a pair of numbers, called coordinates. These coordinates correspond to distances along two perpendicular lines or axes: the horizontal axis (x-axis) and the vertical axis (y-axis).</p>
+<p><strong>Distance:</strong> Distance is a measure of how far apart two points or objects are from each other. In mathematics, it's often calculated as the straight line between two points in a space, like on a coordinate plane.</p>
+<p><strong>Hypotenuse:</strong> The hypotenuse is the longest side of a right triangle, lying opposite the right angle. It is the side used in the Pythagorean Theorem to find the relationship between the lengths of the sides of a right triangle.</p>
+<p><strong>Leg:</strong> In the context of right triangles, a leg refers to one of the two sides that form the right angle. There are always two legs in a right triangle, and they meet to form the right angle.</p>
+<p><strong>Pythagorean Theorem:</strong> The Pythagorean Theorem is a fundamental principle in geometry which states that in a right triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides (the legs). This theorem is essential for calculating distances and understanding right triangles.</p>
+<p><strong>Right Triangle:</strong> A right triangle is a type of triangle that has one angle measuring exactly 90 degrees, known as the right angle. The sides forming this right angle are called the legs, and the side opposite the right angle is the hypotenuse.</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128161; EXPLORING THE MATH</div>
+    <p>In today's lesson, we will explore the Pythagorean Theorem, a fundamental principle in geometry that has a wide range of applications. This theorem not only allows us to calculate the lengths of sides in right triangles but also helps us determine whether a set of three side lengths can form a right triangle. Understanding how to apply this theorem is crucial for solving many mathematical problems and can even be useful in real-life situations.</p>
+<p><br>Let's begin by watching a video on how to use the pythagorean theorem to determine if 3 side lengths makes a right triangle or not.</p>
+<p>(myrec)</p>
+<h4><strong><br><span style="color: #843fa1;">The Pythagorean Theorem</span></strong></h4>
+<p>The Pythagorean Theorem states that in any right triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the other two sides, known as the legs. This can be expressed in the equation form as: <img class="equation_image" title="\textcolor{blue}{c}^2=\textcolor{green}{a}^2+\textcolor{red}{b}^2" src="https://optimadomi.instructure.com/equation_images/%255Ctextcolor%257Bblue%257D%257Bc%257D%255E2%253D%255Ctextcolor%257Bgreen%257D%257Ba%257D%255E2%252B%255Ctextcolor%257Bred%257D%257Bb%257D%255E2?scale=1" alt="LaTeX: \textcolor{blue}{c}^2=\textcolor{green}{a}^2+\textcolor{red}{b}^2" data-equation-content="\textcolor{blue}{c}^2=\textcolor{green}{a}^2+\textcolor{red}{b}^2" data-ignore-a11y-check="" loading="lazy">&nbsp;where \(c\) is the length of the hypotenuse, and \(a\) and \(b\) are the lengths of the other two sides.</p>
+<p><img id="639248" src="https://optimaondemand.github.io/mj-grade-8-pre-algebra/media/MAT08M11L01aIMGRightTriEx.png" alt="MAT08M11L01aIMGRightTriEx.png" width="574" height="347" loading="lazy"></p>
+<h4><strong><br><span style="color: #843fa1;">Using the Pythagorean Theorem to Determine If a Triangle is Right</span></strong></h4>
+<p>To determine if three given side lengths can form a right triangle, you can rearrange the sides in order of their length and apply the Pythagorean Theorem. If the largest number squared is equal to the sum of the squares of the other two numbers, then these sides form a right triangle.</p>
+<h4><span style="color: #e67e23;"><br>Example 1</span></h4>
+<p>Consider the side lengths \(3\:cm\), \(4\:cm\), and \(5\:cm\). Does this form a right triangle?</p>
+<p><span style="color: #e03e2d;"><strong>Solution:</strong></span></p>
+<ul>
+<li>Arranging them in ascending order, we assume \(5\:cm\) is the hypotenuse.</li>
+<li>Applying the Pythagorean Theorem: \(5^2=3^2+4^2 \implies 25=9+16 \implies 25=25\)&nbsp;</li>
+<li><span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">Since the equation holds true, these sides do indeed form a right triangle.</span></li>
+</ul>
+<h4><strong><br></strong><span style="color: #e67e23;">Example 2</span></h4>
+<p>If \(AB=10\), \(BC=6\), and \(CA=8\), then \(\bigtriangleup ABC\)&nbsp;is a right triangle. True or false?&nbsp;</p>
+<p><span style="color: #e03e2d;"><strong>Solution:</strong></span></p>
+<ul>
+<li>Assuming \(10\) is the hypotenuse: \(10^2=6^2+8^2\implies 100=36+64\implies 100=100\)</li>
+<li>Again, the equation holds, confirming that these sides form a right triangle.</li>
+</ul>
+<h4><span style="color: #e67e23;"><br>Example 3</span></h4>
+<p>If \(AC=2\), \(BC=3\), and \(AB=4\), then \(\bigtriangleup ABC\)&nbsp;is a right triangle. True or false?</p>
+<p><span style="color: #e03e2d;"><strong>Solution:</strong></span></p>
+<ul>
+<li>Assuming 4 is the hypotenuse: \(4^2=2^2+3^2\implies 16=4+9\implies 16\neq 13\)</li>
+<li>This calculation shows that the sides do not satisfy the Pythagorean Theorem, meaning they cannot form a right triangle.</li>
+</ul>
+<h4><strong><br>Conclusion</strong></h4>
+<p>Today's lesson delved into the Pythagorean Theorem, demonstrating its utility in verifying whether three side lengths can form a right triangle. We examined two examples where the theorem confirmed the presence of right triangles and one non-example where it did not. This theorem is not just a piece of mathematical trivia; it is a powerful tool that helps us understand the world geometrically. By mastering the Pythagorean Theorem, you enhance your ability to tackle a wide range of mathematical challenges and practical problems involving right triangles.</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#10067; ESSENTIAL QUESTIONS</div>
+    <p>1.&nbsp;How can the Converse of the Pythagorean Theorem be used to determine if a triangle is a right triangle?</p>
+<p>2. How can you use side lengths to determine if a triangle is a right triangle?</p>
+<p>3. What mathematical proof can show that a triangle is a right triangle?</p>
+<p>4. How do you determine which side of a triangle is the hypotenuse?</p>
+</div>
+
+</div>
+
+<div style="background: #0E1C42; border-top: 3px solid #55C8E8; padding: 18px 34px; text-align: center;">
+    <div style="font-size: 18px; color: #ffffff; margin-bottom: 6px;"><span style="color: #55c8e8;">Optima Academy Online</span> &middot; 8TH GRADE PRE-ALGEBRA &middot; Quarter 4 &middot; Student Lesson Page</div>
+    <div style="font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 4px;">11.01a &middot; Determining if a Triangle is a Right Triangle</div>
+    <div style="font-size: 12px; color: rgba(255,255,255,0.4);">&copy; Optima Academy Online &middot; An Education Experience Company</div>
+</div>
+
+</body>
+</html>

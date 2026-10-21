@@ -1,0 +1,133 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lesson 9.01c Likelihood</title>
+<style>html,body{margin:0;padding:0;background:#fff}body{font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#2d3b45}img{max-width:100%;height:auto}video{max-width:100%;height:auto}</style>
+<script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"],["$$","$$"]],processEscapes:true},options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}};</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+</head>
+<body>
+<div style="background: #0E1C42; border-bottom: 5px solid #55C8E8; padding: 22px 34px;">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 10px;">
+        <div style="width: 52px; height: 52px; border-radius: 50%; background: #FFFFFF; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy" style="width: 50px; height: 40px; object-fit: contain;" /></div>
+        <div>
+            <div style="font-size: 28px; color: #ffffff; line-height: 1.2;">Optima Academy Online</div>
+            <div style="font-size: 12px; color: #55c8e8;">An Education Experience Company</div>
+        </div>
+    </div>
+    <div style="font-size: 36px; color: #ffffff; margin-bottom: 6px;">8TH GRADE PRE-ALGEBRA</div>
+</div>
+
+<div style="background: #FFFFFF; border-bottom: 2px solid #D0D9E8; display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Quarter / Module</div>
+        <div style="font-size: 18px; color: #0e1c42;">Q3 &middot; Module 9</div>
+        <div style="font-size: 13px; color: #666;">Probability and Simulated Experiments</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Lesson</div>
+        <div style="font-size: 18px; color: #0e1c42;">9.01c</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Module Theme</div>
+        <div style="font-size: 16px; color: #0e1c42;">Probability and Simulated Experiments</div>
+    </div>
+</div>
+
+<div style="padding: 24px 34px;">
+
+<div style="background: #EEF1F8; border-left: 5px solid #0E1C42; border-radius: 7px; padding: 18px 22px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #0e1c42; margin-bottom: 8px;">9.01c</div>
+    <div style="font-size: 22px; color: #0e1c42; margin-bottom: 6px;">Likelihood</div>
+    <div style="font-size: 15px; color: #666;">Lesson</div>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; VOCABULARY</div>
+    <p><strong>Certain:</strong> When we say an event is certain, it means it's 100% going to happen. There's no doubt about it. For example, if you drop a ball, it's certain it will fall to the ground because of gravity.</p>
+<p><strong>Event:</strong> An event is any result that happens. In math, it's something we're interested in when we're doing an experiment or looking at probabilities. For example, in flipping a coin, having it land on heads is an event.</p>
+<p><strong>Experiment:</strong> An experiment is a test or trial you do to see what happens. It's like a science experiment but for math. You do something (like rolling a dice) and watch to see what the outcome is (which number faces up).</p>
+<p><strong>Impossible:</strong> If something is impossible, it means there's a 0% chance of it happening. It just can't happen. For example, rolling a regular dice and getting a 7 is impossible because the dice only have numbers 1 through 6.</p>
+<p><strong>Likelihood:</strong> Likelihood is just another word for how probable something is, or how likely it is to happen. If something has a high likelihood, it means it's very probable it will happen.</p>
+<p><strong>Likely:</strong> If we say an event is likely, it means there's a good chance it will happen. It's more than 50% likely. For example, if you have a bag full of red and only a few blue marbles, it's likely you'll pick a red marble.</p>
+<p><strong>Outcome:</strong> An outcome is the result of an experiment. Whatever happens as a result of the experiment is called the outcome. For example, if you roll a dice and it lands on 4, the outcome is 4.</p>
+<p><strong>Sample Space:</strong> The sample space is all the possible outcomes you can get from an experiment. If you're rolling a dice, the sample space is 1, 2, 3, 4, 5, and 6 because those are all the results you could possibly get.</p>
+<p><strong>Theoretical Probability:</strong> This is the probability you get by thinking through an experiment logically, without actually doing the experiment. It's what should happen in theory. For example, the theoretical probability of flipping a coin and getting heads is 1/2, because there are two sides to the coin, and one of them is heads.</p>
+<p><strong>Unlikely:</strong> If something is unlikely, it means it probably won't happen. It's less than 50% likely. For example, if you have a bag with mostly red marbles and only a few blue ones, it's unlikely you'll pick a blue marble.</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128161; EXPLORING THE MATH</div>
+    <p><span>In this lesson, we will explore the concept of likelihood and how it is used in probability to describe how probable it is that an event will happen. Likelihood is essentially the chance of an event occurring, and it can be measured on a scale from "impossible" to "certain." This scale helps us quantify and communicate our understanding of risk and chance in everyday situations and mathematical problems.</span></p>
+<p><span><br>Let's begin by looking at what likelihood is and the likelihood scale. Then watch a short video on the likelihood of events.</span></p>
+<h4><strong><span style="color: #843fa1;">The Likelihood Scale:</span></strong></h4>
+<ul>
+<li><strong>Impossible (0% chance):</strong> The event cannot happen.</li>
+<li><strong>Unlikely (&lt;50% chance):</strong> The event is not expected to happen most of the time.</li>
+<li><strong>As Likely as Unlikely (50% chance):</strong> The event has an equal chance of happening or not happening.</li>
+<li><strong>Likely (&gt;50% chance but &lt;100%):</strong> The event is expected to happen most of the time.</li>
+<li><strong>Certain (100% chance):</strong> The event will definitely happen.</li>
+</ul>
+<p><img id="310213" src="https://optimaondemand.github.io/mj-grade-8-pre-algebra/media/MAT08U09L01IMGLikelihoodScale.jpg" alt="MAT08U09L01IMGLikelihoodScale.jpg" data-api-endpoint="https://optimadomi.instructure.com/api/v1/courses/429/files/310213" data-api-returntype="File" loading="lazy"></p>
+<p><br>Now, let's explore a few more examples. <span>Let's revisit the examples from the previous lesson and determine the likelihood of each event.</span></p>
+<h4><span style="color: #e67e23;">Example 1</span></h4>
+<p><span>Suppose you are rolling a 6-sided die. You are going to roll the die twice in the repeated experiment.</span></p>
+<p><span>What is the likelihood of rolling a 6 on a 6-sided die two times in a row? What is the likelihood of rolling an even number, and then rolling a 5?</span></p>
+<p><span><strong><span style="color: #e03e2d;">Solution:</span></strong></span></p>
+<ul>
+<li><span>We use the theoretical probability to help us determine the likelihood. We turn the fraction of the probability into a decimal and then into a percentage to see where the event falls on the likelihood scale.</span></li>
+<li><span>Remember to turn a fraction into a decimal, and divide the denominator into the numerator. To turn the decimal into a percentage, multiply by 100.</span></li>
+<li><span><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAAJWS7QrCIBiFbyUW9XPuI9rWnBCMfjXoFsa%2BYWrYwF1%2B5mQabUV%2F5Lye8z6%2BihDnQ7sZcU8eidUOw%2F0EAOfc5r5NWQPcKApBJiJyya4WgrhDNwjECnFdkaIqhWCUS4Mpo0N0Vv2C6mZFZtUoRdF%2BO56dWJRUlAQdhSKfRofyBUr5gwKmWYGenaJEhWqWFzLrqhONLuVJbBrE%2F3R8wfvraR2TZ14CfRX%2F7UU87xBqz5ktW%2B95QWh2pAbLdZx1mLcAM1C7aRO8vhB6Alz%2BBilJAgAA" alt="P open parentheses r o l l i n g space 6 space a n d space 6 close parentheses equals 1 over 6 cross times 1 over 6 equals 1 over 36 equals 1 divided by 36 almost equal to 0.0278 cross times 100 almost equal to 2.78 percent sign" loading="lazy"></span></li>
+<li><span>This event is <strong>Unlikely</strong> because the chance is significantly less than 50%.</span></li>
+<li><span><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALWTwQrCMBBEf0UqemysorbaLggeFfyFqlELTbak0fj5xhhTMVXw4CHLNDvzKANJWS5PnSsreZ0FJymrGSFKqVCNQhRHEiVJTNbaYsZ6FUDKCtikRM%2BUHSjf0b0WApVZCLsoAJ0qW1ThFHfqaBVCv3tdDOb6E82COsvFKeoBvFhDPjvFnNq2oMQnVN7yu%2Ft2M4exVhz0MKWQpiSEzJoOIt8Z7%2Bjh1WfyTNmdwS6n8%2FdE9CXh4Rvz8L%2F4yOdnrpCBtSGEzV1sL3U5Jda0w1HmskCeBRKr4LUc8vS8YWMP%2Byur98iR%2BxOAG5nbu2AJAwAA" alt="P open parentheses r o l l i n g space e v e n space n u m b e r space a n d space 5 close parentheses equals 3 over 6 cross times 1 over 6 equals 1 half cross times 1 over 6 equals 1 over 12 equals 0.08 top enclose 3 equals 8. top enclose 3 percent sign" loading="lazy"></span></li>
+<li><span>This event is <strong>Unlikely</strong> because the chance is significantly less than 50%.</span></li>
+</ul>
+<h4><span><br><span style="color: #e67e23;">Example 2</span></span></h4>
+<p><span>A bag contains 5 yellow, 3 red, and 7 blue marbles.</span></p>
+<p><span>What is the likelihood of drawing a red marble and then a yellow marble with replacement?</span></p>
+<p><span><strong><span style="color: #e03e2d;">Solution:</span></strong></span></p>
+<ul>
+<li><span><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAAJWS3wqCMBTGX0WMuvSokWXqgaDLgl5B1FLQHdHB7O1bcylof%2Bhm%2B%2B183%2Fl2BgurmOdGV5Wsjcyc83oPIISwxNqi5gaO7%2B%2FgLC1qOZ9MDKsCLyHINayuGUuyVEJDQgmNFgrMBko1Ea4W3cEO5JGUEA8W9tt8f5NcviEaSPQE%2FXAwDksY6dhrEydyY7iWBabI2fQIL1FNctwG05bNt5bZBc5od93Pfoa29hFaY83TRfmCktrMYMRjXhCLTE61qTzeK1N7JrHeLPbfrGXfB8%2F%2Fgg8UeO0ANgIAAA%3D%3D" alt="P open parentheses r e d space a n d space y e l l o w close parentheses equals 3 over 15 cross times 5 over 15 equals 15 over 225 equals 0.06 top enclose 6 equals 6. top enclose 6 percent sign" loading="lazy"></span></li>
+<li><span>This event is <strong>Unlikely</strong> because the chance is significantly less than 50%.</span></li>
+</ul>
+<h4><span><br><span style="color: #e67e23;">Example 3</span></span></h4>
+<p><span>Suppose you are conducting an experiment where you are going to roll an 8-sided die and then flip a coin.</span></p>
+<p><span>What is the likelihood of rolling an even number and then landing on heads?</span></p>
+<p><span><strong><span style="color: #e03e2d;">Solution:</span></strong></span></p>
+<ul>
+<li><span>Let's begin by looking at the theoretical probability of the event.</span></li>
+<li><span><img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAAI1S3QqCMBR%2BlTDq0qOVpakHgi4TegXzJwdtC7Xm47fUJqVWN9u37%2B9wYB4Ny2xS0QsrfC0ry%2BsWQAihi6XO8zOYjmNDIC31ERw09CjBowfy9GiasCiJJci5qIWkFQjeFeo41iKO82m1M1z55G8CwZtCVKHTQFU%2BVhX2phGMx8zZQHPYixEsGgTNntDtzdFvy9I8jOTFcCUJViO7QfDS6vH7jfuZMFVi0Ut8qTfXv93%2FVDM0WhdHXXGW4jqf1RlnDQnP34MPZJlNjUQCAAA%3D" alt="P open parentheses e v e n space n u m b e r space a n d space h e a d s close parentheses equals 4 over 8 cross times 1 half equals 4 over 16 equals 1 half equals 0.5 equals 50 percent sign" loading="lazy"></span></li>
+<li><span>Since the event of rolling an even number and then landing on heads has a 50% chance of happening, then the event is as likely as unlikely to happen.</span></li>
+<li><span>This is <strong>As Likely as Unlikely</strong> because there's an equal chance of rolling an even or odd number and getting heads or tails.</span></li>
+</ul>
+<h4><span><br><span style="color: #e67e23;">Example 4</span></span></h4>
+<p><span>Suppose you are drawing a marble from a bag of marbles that contains only blue marbles.</span></p>
+<p><span>What is the likelihood of drawing a blue marble?</span></p>
+<p><span><strong><span style="color: #e03e2d;">Solution:</span></strong></span></p>
+<ul>
+<li><span>Since the bag only contains blue marbles and we want to draw a marble, there is a 100% chance of drawing a blue marble.</span></li>
+<li><span>This is <strong>Certain</strong> because no matter what, you will draw a blue marble.</span></li>
+</ul>
+<h4><br>Conclusion</h4>
+<p>Today, we've learned about the concept of likelihood and how it's represented on a scale from impossible to certain. By applying this scale to various examples, we can better understand and communicate the probability of different events occurring. Understanding the likelihood of events helps us make informed decisions and predictions in both everyday life and mathematical problems. Remember, the likelihood scale is a powerful tool for interpreting the chances of various outcomes.</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#10067; ESSENTIAL QUESTIONS</div>
+    <p>1. <span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">How do we describe the likelihood of an event happening?</span></p>
+<p><span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">2. Can you compare the likelihood of different events and justify your reasoning?</span></p>
+<p><span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">3. How does understanding the likelihood of events help us in making decisions?</span></p>
+</div>
+
+</div>
+
+<div style="background: #0E1C42; border-top: 3px solid #55C8E8; padding: 18px 34px; text-align: center;">
+    <div style="font-size: 18px; color: #ffffff; margin-bottom: 6px;"><span style="color: #55c8e8;">Optima Academy Online</span> &middot; 8TH GRADE PRE-ALGEBRA &middot; Quarter 3 &middot; Student Lesson Page</div>
+    <div style="font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 4px;">9.01c &middot; Likelihood</div>
+    <div style="font-size: 12px; color: rgba(255,255,255,0.4);">&copy; Optima Academy Online &middot; An Education Experience Company</div>
+</div>
+
+</body>
+</html>

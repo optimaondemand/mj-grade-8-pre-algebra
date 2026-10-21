@@ -1,0 +1,288 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lesson 8.01a Constructing a Scatter Plot and Looking at Patterns</title>
+<style>html,body{margin:0;padding:0;background:#fff}body{font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#2d3b45}img{max-width:100%;height:auto}video{max-width:100%;height:auto}</style>
+<script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"],["$$","$$"]],processEscapes:true},options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}};</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+</head>
+<body>
+<div style="background: #0E1C42; border-bottom: 5px solid #55C8E8; padding: 22px 34px;">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 10px;">
+        <div style="width: 52px; height: 52px; border-radius: 50%; background: #FFFFFF; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy" style="width: 50px; height: 40px; object-fit: contain;" /></div>
+        <div>
+            <div style="font-size: 28px; color: #ffffff; line-height: 1.2;">Optima Academy Online</div>
+            <div style="font-size: 12px; color: #55c8e8;">An Education Experience Company</div>
+        </div>
+    </div>
+    <div style="font-size: 36px; color: #ffffff; margin-bottom: 6px;">8TH GRADE PRE-ALGEBRA</div>
+</div>
+
+<div style="background: #FFFFFF; border-bottom: 2px solid #D0D9E8; display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Quarter / Module</div>
+        <div style="font-size: 18px; color: #0e1c42;">Q3 &middot; Module 8</div>
+        <div style="font-size: 13px; color: #666;">Bivariate Data Models</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Lesson</div>
+        <div style="font-size: 18px; color: #0e1c42;">8.01a</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Module Theme</div>
+        <div style="font-size: 16px; color: #0e1c42;">Bivariate Data Models</div>
+    </div>
+</div>
+
+<div style="padding: 24px 34px;">
+
+<div style="background: #EEF1F8; border-left: 5px solid #0E1C42; border-radius: 7px; padding: 18px 22px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #0e1c42; margin-bottom: 8px;">8.01a</div>
+    <div style="font-size: 22px; color: #0e1c42; margin-bottom: 6px;">Constructing a Scatter Plot and Looking at Patterns</div>
+    <div style="font-size: 15px; color: #666;">Lesson</div>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; VOCABULARY</div>
+    <p><strong>Association:</strong> In the context of scatter plots, association refers to the relationship or pattern you can observe between two sets of data. If one set of data changes, the association describes how the other set might change in response. This can be positive (both increase), negative (one decreases as the other increases), or none (no observable pattern).</p>
+<p><strong>Bivariate Data:</strong> Bivariate data involves two variables or sets of data. When we graph bivariate data, each data point represents two connected values, allowing us to see relationships or patterns between the two variables.</p>
+<p><strong>Equation of Line of Fit:</strong> This is a mathematical formula that describes the best line that represents the trend shown by the data points in a scatter plot. It's usually in the form of \(y=mx+b\) where <img class="equation_image" title="m" src="https://optimadomi.instructure.com/equation_images/m?scale=1" alt="LaTeX: m" data-equation-content="m" data-ignore-a11y-check="" loading="lazy"> is the slope of the line and <img class="equation_image" title="b" src="https://optimadomi.instructure.com/equation_images/b?scale=1" alt="LaTeX: b" data-equation-content="b" data-ignore-a11y-check="" loading="lazy">&nbsp;is the y-intercept. This equation helps us make predictions about one variable based on the other.</p>
+<p><strong>Line of Fit:</strong> Also known as a trend line, it's a straight line drawn through the center of a group of data points plotted on a scatter plot. This line summarizes the relationship between the two variables, showing the general direction the data is moving (upwards, downwards, or level).</p>
+<p><strong>Linear Model:</strong> A linear model is a type of mathematical model that assumes a linear relationship between two variables. It's used to describe how one variable changes with respect to another, using a line of best fit or equation of line of fit.</p>
+<p><strong>Outlier:</strong> An outlier is a data point that is significantly different from the other data points in a data set. In a scatter plot, an outlier is a point that lies far away from the other points, and it can affect the slope and position of the line of fit.</p>
+<p><strong>Prediction:</strong> A prediction is a guess about a value that is not in the data set but could be expected based on the pattern shown by the data. Using the equation of the line of fit, we can make predictions about future or unknown values.</p>
+<p><strong>Scatter Plot:</strong> A scatter plot is a type of graph used to represent bivariate data. It displays individual data points plotted on a two-dimensional graph, with one variable along the x-axis and the other along the y-axis. Scatter plots are used to look for trends, patterns, and associations between the variables.</p>
+<p><strong>Strength:</strong> In the context of scatter plots, strength refers to how closely the data points follow a clear form or line. A strong association means the points closely follow a trend (linear or otherwise), making the relationship between variables clear. Weak strength means the points are more scattered and do not follow a clear trend, indicating a weaker relationship.</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128161; EXPLORING THE MATH</div>
+    <p>In today's lesson, we'll explore scatter plots, a type of graph that shows the relationship between two variables in a data set. By examining scatter plots, we can identify patterns and associations between variables, helping us make predictions and understand the world around us.</p>
+<h4><br><span style="color: #843fa1;"><strong>What is a Scatter Plot?</strong></span></h4>
+<p>A scatter plot is a graph that uses dots to represent the values of two different variables. One variable is plotted along the x-axis (horizontal), and the other is plotted along the y-axis (vertical). The position of each dot on the graph shows the values of both variables for that data point.</p>
+<h4><br><span style="color: #843fa1;"><strong>Identifying Patterns in Scatter Plots</strong></span></h4>
+<p>When we look at a scatter plot, we're interested in seeing if there's a pattern that shows a relationship between the two variables. This can be:</p>
+<ul>
+<li><strong>Positive association:</strong> As one variable increases, the other variable also increases.</li>
+<li><strong>Negative association:</strong> As one variable increases, the other variable decreases.</li>
+<li><strong>No association:</strong> There is no clear pattern between the variables.</li>
+</ul>
+<h4><br><span style="color: #e67e23;">Example 1</span></h4>
+<p><strong>Situation:</strong> Imagine a local ice cream shop keeps track of how many ice creams are sold each day and the day's average temperature.</p>
+<p><strong>Data Set:</strong></p>
+<table style="border-collapse: collapse; width: 26.6752%; height: 346px;" border="3">
+<thead>
+<tr style="height: 27px;">
+<th style="width: 63.9354%; height: 27px;">Average Temperature (°F)</th>
+<th style="width: 35.7027%; height: 27px;">Ice Creams Sold</th>
+</tr>
+</thead>
+<tbody>
+<tr style="height: 29px;">
+<td style="width: 63.9354%; text-align: center; height: 29px;">60</td>
+<td style="width: 35.7027%; text-align: center; height: 29px;">50</td>
+</tr>
+<tr style="height: 29px;">
+<td style="width: 63.9354%; text-align: center; height: 29px;">65</td>
+<td style="width: 35.7027%; text-align: center; height: 29px;">60</td>
+</tr>
+<tr style="height: 29px;">
+<td style="width: 63.9354%; text-align: center; height: 29px;">69</td>
+<td style="width: 35.7027%; text-align: center; height: 29px;">70</td>
+</tr>
+<tr style="height: 29px;">
+<td style="width: 63.9354%; text-align: center; height: 29px;">73</td>
+<td style="width: 35.7027%; text-align: center; height: 29px;">78</td>
+</tr>
+<tr style="height: 29px;">
+<td style="width: 63.9354%; text-align: center; height: 29px;">77</td>
+<td style="width: 35.7027%; text-align: center; height: 29px;">90</td>
+</tr>
+<tr style="height: 29px;">
+<td style="width: 63.9354%; text-align: center; height: 29px;">85</td>
+<td style="width: 35.7027%; text-align: center; height: 29px;">100</td>
+</tr>
+<tr style="height: 29px;">
+<td style="width: 63.9354%; text-align: center; height: 29px;">62</td>
+<td style="width: 35.7027%; text-align: center; height: 29px;">55</td>
+</tr>
+<tr style="height: 29px;">
+<td style="width: 63.9354%; text-align: center; height: 29px;">62</td>
+<td style="width: 35.7027%; text-align: center; height: 29px;">60</td>
+</tr>
+<tr style="height: 29px;">
+<td style="width: 63.9354%; text-align: center; height: 29px;">66</td>
+<td style="width: 35.7027%; text-align: center; height: 29px;">63</td>
+</tr>
+<tr style="height: 29px;">
+<td style="width: 63.9354%; text-align: center; height: 29px;">70</td>
+<td style="width: 35.7027%; text-align: center; height: 29px;">75</td>
+</tr>
+<tr style="height: 29px;">
+<td style="width: 63.9354%; text-align: center; height: 29px;">76</td>
+<td style="width: 35.7027%; text-align: center; height: 29px;">83</td>
+</tr>
+</tbody>
+</table>
+<p><strong><span style="color: #e03e2d;">Solution:</span></strong></p>
+<p>To create a scatter plot, we will plot the points for each pair of data in the given table. The temperature will be the independent variable on the x-axis and the dependent variable will be the number of ice creams sold on the y-axis. So the first data point would be (60, 50).</p>
+<p>We can look at the range of temperatures to determine the range of the x-axis. We will have the x-axis range from 58 to 87 to go a little before and a little beyond the average temperatures in the table. We will have the y-axis range from 48 to 102. Now, we can create a coordinate plane and graph our points. You can do this using desmos.com.</p>
+<p><iframe style="border: 1px solid #ccc;" title="embedded content" src="https://www.desmos.com/calculator/itlwo2pron?embed" width="500" height="500" loading="lazy"></iframe></p>
+<p>Now we analyze the patterns we see and describe what we find.</p>
+<p><span>When we plot this data, we see a scatter plot where points trend upwards from left to right. This indicates a positive association between temperature and ice cream sales: as the temperature increases, so does the number of ice creams sold.</span></p>
+<h4><span><br><span style="color: #e67e23;">Example 2</span></span></h4>
+<p><strong>Situation:</strong> A study examines the relationship between the number of hours spent watching TV per day and scores on a math test.</p>
+<p><strong>Data Set:</strong></p>
+<table style="border-collapse: collapse; width: 21.9869%;" border="3">
+<thead>
+<tr>
+<th style="width: 53.8586%;">Hours of TV per Day</th>
+<th style="width: 45.9274%;">Math Test Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 53.8586%; text-align: center;">0</td>
+<td style="width: 45.9274%; text-align: center;">95</td>
+</tr>
+<tr>
+<td style="width: 53.8586%; text-align: center;">1</td>
+<td style="width: 45.9274%; text-align: center;">90</td>
+</tr>
+<tr>
+<td style="width: 53.8586%; text-align: center;">2</td>
+<td style="width: 45.9274%; text-align: center;">85</td>
+</tr>
+<tr>
+<td style="width: 53.8586%; text-align: center;">3</td>
+<td style="width: 45.9274%; text-align: center;">80</td>
+</tr>
+<tr>
+<td style="width: 53.8586%; text-align: center;">4</td>
+<td style="width: 45.9274%; text-align: center;">75</td>
+</tr>
+<tr>
+<td style="width: 53.8586%; text-align: center;">5</td>
+<td style="width: 45.9274%; text-align: center;">70</td>
+</tr>
+<tr>
+<td style="width: 53.8586%; text-align: center;">3</td>
+<td style="width: 45.9274%; text-align: center;">83</td>
+</tr>
+<tr>
+<td style="width: 53.8586%; text-align: center;">2</td>
+<td style="width: 45.9274%; text-align: center;">89</td>
+</tr>
+<tr>
+<td style="width: 53.8586%; text-align: center;">4</td>
+<td style="width: 45.9274%; text-align: center;">72</td>
+</tr>
+<tr>
+<td style="width: 53.8586%; text-align: center;">5</td>
+<td style="width: 45.9274%; text-align: center;">72</td>
+</tr>
+<tr>
+<td style="width: 53.8586%; text-align: center;">6</td>
+<td style="width: 45.9274%; text-align: center;">68</td>
+</tr>
+<tr>
+<td style="width: 53.8586%; text-align: center;">7</td>
+<td style="width: 45.9274%; text-align: center;">65</td>
+</tr>
+<tr>
+<td style="width: 53.8586%; text-align: center;">6</td>
+<td style="width: 45.9274%; text-align: center;">70</td>
+</tr>
+<tr>
+<td style="width: 53.8586%; text-align: center;">5</td>
+<td style="width: 45.9274%; text-align: center;">71</td>
+</tr>
+</tbody>
+</table>
+<p><span style="color: #e03e2d;"><strong>Solution:</strong></span></p>
+<p>To create a scatter plot, we will plot the points for each pair of data in the given table. The hours of TV per Day will be the independent variable on the x-axis and the dependent variable will be the math test score on the y-axis. So the first data point would be (0,95).</p>
+<p>We can look at the range of hours to determine the range of the x-axis. We will have the x-axis range from 0 to 8 to go a little before and a little beyond the table. We will have the y-axis range from 60 to 100. Now, we can create a coordinate plane and graph our points. You can do this using desmos.com.</p>
+<p><iframe style="border: 1px solid #ccc;" title="embedded content" src="https://www.desmos.com/calculator/wjwfvyzxwa?embed" width="500" height="500" loading="lazy"></iframe></p>
+<p>Now we analyze the patterns we see and describe what we find.</p>
+<p><span>In this case, the scatter plot will show a downward trend, indicating a negative association: as the hours spent watching TV increase, math test scores decrease.</span></p>
+<h4><span><br><span style="color: #e67e23;">Example 3</span></span></h4>
+<p><strong>Situation:</strong> A survey investigates the relationship between the number of books someone has in their home and their favorite number.</p>
+<p><strong>Data Set:</strong></p>
+<table style="border-collapse: collapse; width: 21.5121%;" border="3">
+<thead>
+<tr>
+<th style="width: 62.6663%;">Number of Books</th>
+<th style="width: 36.8228%;">Favorite Number</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 62.6663%; text-align: center;">30</td>
+<td style="width: 36.8228%; text-align: center;">7</td>
+</tr>
+<tr>
+<td style="width: 62.6663%; text-align: center;">78</td>
+<td style="width: 36.8228%; text-align: center;">2</td>
+</tr>
+<tr>
+<td style="width: 62.6663%; text-align: center;">80</td>
+<td style="width: 36.8228%; text-align: center;">15</td>
+</tr>
+<tr>
+<td style="width: 62.6663%; text-align: center;">62</td>
+<td style="width: 36.8228%; text-align: center;">10</td>
+</tr>
+<tr>
+<td style="width: 62.6663%; text-align: center;">50</td>
+<td style="width: 36.8228%; text-align: center;">23</td>
+</tr>
+<tr>
+<td style="width: 62.6663%; text-align: center;">75</td>
+<td style="width: 36.8228%; text-align: center;">8</td>
+</tr>
+<tr>
+<td style="width: 62.6663%; text-align: center;">48</td>
+<td style="width: 36.8228%; text-align: center;">16</td>
+</tr>
+<tr>
+<td style="width: 62.6663%; text-align: center;">57</td>
+<td style="width: 36.8228%; text-align: center;">5</td>
+</tr>
+<tr>
+<td style="width: 62.6663%; text-align: center;">42</td>
+<td style="width: 36.8228%; text-align: center;">25</td>
+</tr>
+<tr>
+<td style="width: 62.6663%; text-align: center;">36</td>
+<td style="width: 36.8228%; text-align: center;">19</td>
+</tr>
+</tbody>
+</table>
+<p><strong><span style="color: #e03e2d;">Solution:</span></strong></p>
+<p>We can now create the scatter plot, with an x-axis ranging from 28 to 82 and a y-axis ranging from 0 to 26. It does not matter which column you put on the x-axis and which one on the y-axis in this example. You should realize that the two variables probably have no relationship.</p>
+<p><iframe style="border: 1px solid #ccc;" title="embedded content" src="https://www.desmos.com/calculator/rwclt4gdxp?embed" width="500" height="500" loading="lazy"></iframe></p>
+<p><span>When plotted, these data points show no clear pattern or trend, indicating there is no association between the number of books someone owns and their favorite number.</span></p>
+<h4><br><strong>Conclusion</strong></h4>
+<p>Scatter plots are powerful tools for visualizing and understanding the relationships between variables. By examining the pattern of dots, you can determine whether there is a positive, negative, or no association between the variables. This skill is valuable in many real-world situations, from business to science, helping us make informed decisions and understandings.</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#10067; ESSENTIAL QUESTIONS</div>
+    <p>1. How do you construct a scatter plot using bivariate numerical data?</p>
+<p><span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">2. What types of patterns can you observe in a scatter plot?</span></p>
+<p><span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">3. How can outliers affect the interpretation of data in a scatter plot?</span></p>
+<p><span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">4. How can you describe the pattern of association observed in a scatter plot?</span></p>
+</div>
+
+</div>
+
+<div style="background: #0E1C42; border-top: 3px solid #55C8E8; padding: 18px 34px; text-align: center;">
+    <div style="font-size: 18px; color: #ffffff; margin-bottom: 6px;"><span style="color: #55c8e8;">Optima Academy Online</span> &middot; 8TH GRADE PRE-ALGEBRA &middot; Quarter 3 &middot; Student Lesson Page</div>
+    <div style="font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 4px;">8.01a &middot; Constructing a Scatter Plot and Looking at Patterns</div>
+    <div style="font-size: 12px; color: rgba(255,255,255,0.4);">&copy; Optima Academy Online &middot; An Education Experience Company</div>
+</div>
+
+</body>
+</html>

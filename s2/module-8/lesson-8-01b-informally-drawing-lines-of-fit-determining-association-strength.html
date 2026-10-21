@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lesson 8.01b Informally Drawing Lines of Fit &amp; Determining Association &amp; Strength</title>
+<style>html,body{margin:0;padding:0;background:#fff}body{font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#2d3b45}img{max-width:100%;height:auto}video{max-width:100%;height:auto}</style>
+<script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"],["$$","$$"]],processEscapes:true},options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}};</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+</head>
+<body>
+<div style="background: #0E1C42; border-bottom: 5px solid #55C8E8; padding: 22px 34px;">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 10px;">
+        <div style="width: 52px; height: 52px; border-radius: 50%; background: #FFFFFF; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy" style="width: 50px; height: 40px; object-fit: contain;" /></div>
+        <div>
+            <div style="font-size: 28px; color: #ffffff; line-height: 1.2;">Optima Academy Online</div>
+            <div style="font-size: 12px; color: #55c8e8;">An Education Experience Company</div>
+        </div>
+    </div>
+    <div style="font-size: 36px; color: #ffffff; margin-bottom: 6px;">8TH GRADE PRE-ALGEBRA</div>
+</div>
+
+<div style="background: #FFFFFF; border-bottom: 2px solid #D0D9E8; display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Quarter / Module</div>
+        <div style="font-size: 18px; color: #0e1c42;">Q3 &middot; Module 8</div>
+        <div style="font-size: 13px; color: #666;">Bivariate Data Models</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Lesson</div>
+        <div style="font-size: 18px; color: #0e1c42;">8.01b</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Module Theme</div>
+        <div style="font-size: 16px; color: #0e1c42;">Bivariate Data Models</div>
+    </div>
+</div>
+
+<div style="padding: 24px 34px;">
+
+<div style="background: #EEF1F8; border-left: 5px solid #0E1C42; border-radius: 7px; padding: 18px 22px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #0e1c42; margin-bottom: 8px;">8.01b</div>
+    <div style="font-size: 22px; color: #0e1c42; margin-bottom: 6px;">Informally Drawing Lines of Fit &amp; Determining Association &amp; Strength</div>
+    <div style="font-size: 15px; color: #666;">Lesson</div>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; VOCABULARY</div>
+    <p><strong>Association:</strong> In the context of scatter plots, association refers to the relationship or pattern you can observe between two sets of data. If one set of data changes, the association describes how the other set might change in response. This can be positive (both increase), negative (one decreases as the other increases), or none (no observable pattern).</p>
+<p><strong>Bivariate Data:</strong> Bivariate data involves two variables or sets of data. When we graph bivariate data, each data point represents two connected values, allowing us to see relationships or patterns between the two variables.</p>
+<p><strong>Equation of Line of Fit:</strong> This is a mathematical formula that describes the best line that represents the trend shown by the data points in a scatter plot. It's usually in the form of <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5mXaVNvpA0iY3384WyMoHi%2BVCxTLtKuCy2nDZJIiYPsg2OwDiRT1GdAAAAA%3D%3D" alt="y equals m x plus b" loading="lazy">, where <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5mXa5NvpAEkgAxewA%2FciwrEIAAAA%3D" alt="m" loading="lazy"> is the slope of the line and <img style="width: auto; height: auto;" src="https://www.wiris.net/instructure.com/canvas/editor/image?mmlgz=H4sIAAAAAAAAALPJTSzJUKjIzckrtlXKKCkpsNLXLy8v1ys31ssvStc3tLS00PcFKgETvj5Kdja5mXZJNvpAEkgAxewAyB3Ai0IAAAA%3D" alt="b" loading="lazy">&nbsp;is the y-intercept. This equation helps us make predictions about one variable based on the other.</p>
+<p><strong>Line of Fit:</strong> Also known as a trend line, it's a straight line drawn through the center of a group of data points plotted on a scatter plot. This line summarizes the relationship between the two variables, showing the general direction the data is moving (upwards, downwards, or level).</p>
+<p><strong>Linear Model:</strong> A linear model is a type of mathematical model that assumes a linear relationship between two variables. It's used to describe how one variable changes with respect to another, using a line of best fit or equation of line of fit.</p>
+<p><strong>Outlier:</strong> An outlier is a data point that is significantly different from the other data points in a data set. In a scatter plot, an outlier is a point that lies far away from the other points, and it can affect the slope and position of the line of fit.</p>
+<p><strong>Prediction:</strong> A prediction is a guess about a value that is not in the data set but could be expected based on the pattern shown by the data. Using the equation of the line of fit, we can make predictions about future or unknown values.</p>
+<p><strong>Scatter Plot:</strong> A scatter plot is a type of graph used to represent bivariate data. It displays individual data points plotted on a two-dimensional graph, with one variable along the x-axis and the other along the y-axis. Scatter plots are used to look for trends, patterns, and associations between the variables.</p>
+<p><strong>Strength:</strong> In the context of scatter plots, strength refers to how closely the data points follow a clear form or line. A strong association means the points closely follow a trend (linear or otherwise), making the relationship between variables clear. Weak strength means the points are more scattered and do not follow a clear trend, indicating a weaker relationship.</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128161; EXPLORING THE MATH</div>
+    <p>In today's lesson, we'll explore <span>an essential skill in understanding scatter plots: drawing a line of fit. This line helps us see the overall direction and strength of the relationship between two variables in a scatter plot. By the end of this lesson, you'll know how to informally draw a line of fit and interpret its direction and strength.</span></p>
+<h4><br><strong><span style="color: #843fa1;">What is a Scatter Plot?</span></strong></h4>
+<p>A scatter plot is a graph that uses dots to represent the values of two different variables. One variable is plotted along the x-axis (horizontal), and the other is plotted along the y-axis (vertical). The position of each dot on the graph shows the values of both variables for that data point.</p>
+<h4><strong><span style="color: #843fa1;">What is a Line of Fit?</span></strong></h4>
+<p>A line of fit, also known as a trend line, is a straight line that best represents the data points on a scatter plot. This line shows the general direction that the data is trending, either upwards, downwards, or staying relatively flat.</p>
+<h4><strong><br><span style="color: #843fa1;">Drawing a Line of Fit</span></strong></h4>
+<p>To draw a line of fit:</p>
+<ol>
+<li><strong>Plot Your Data:</strong> Start by plotting your bivariate data on a scatter plot, with one variable on the x-axis and the other on the y-axis.</li>
+<li><strong>Observe the Overall Trend:</strong> Look at the scatter plot to see if there's a general direction that most of the data points are heading towards.</li>
+<li><strong>Draw the Line:</strong> Using a ruler, draw a straight line that splits the data points as evenly as possible. It doesn't need to go through any specific points, but it should be close to as many points as possible, with roughly equal numbers of points above and below the line.</li>
+</ol>
+<h4><br><span style="color: #843fa1;"><strong>The direction of the Line of Fit</strong></span></h4>
+<p>The direction of the line of fit tells us about the relationship between the two variables:</p>
+<ul>
+<li><strong>Upward Sloping (Positive Association):</strong> If the line of fit slopes upwards from left to right, it indicates a positive association. As one variable increases, the other variable also tends to increase.</li>
+<li><strong>Downward Sloping (Negative Association):</strong> If the line slopes downwards, it shows a negative association. As one variable increases, the other tends to decrease.</li>
+</ul>
+<h4><br><span style="color: #843fa1;"><strong>Strength of the Line of Fit</strong></span></h4>
+<p>The strength of the line of fit refers to how closely the data points follow the line. This can be seen as:</p>
+<ul>
+<li><strong>Strong Fit:</strong> If the data points are close to the line of fit and tightly clustered, this indicates a strong relationship between the variables. The closer the points are to the line, the stronger the association.</li>
+<li><strong>Weak Fit:</strong> If the data points are spread out widely from the line of fit, this suggests a weak relationship. The more scattered the points, the weaker the association.</li>
+</ul>
+<h4><br><span style="color: #e67e23;">Example 1</span></h4>
+<p><strong>Situation:</strong> Imagine a local ice cream shop keeps track of how many ice creams are sold each day and the day's average temperature.</p>
+<p><strong>Data Set:</strong></p>
+<table style="border-collapse: collapse; width: 26.6752%;" border="2">
+<thead>
+<tr>
+<th style="width: 63.9354%;">Average Temperature (°F)</th>
+<th style="width: 35.7027%;">Ice Creams Sold</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 63.9354%; text-align: center;">60</td>
+<td style="width: 35.7027%; text-align: center;">50</td>
+</tr>
+<tr>
+<td style="width: 63.9354%; text-align: center;">65</td>
+<td style="width: 35.7027%; text-align: center;">60</td>
+</tr>
+<tr>
+<td style="width: 63.9354%; text-align: center;">69</td>
+<td style="width: 35.7027%; text-align: center;">70</td>
+</tr>
+<tr>
+<td style="width: 63.9354%; text-align: center;">73</td>
+<td style="width: 35.7027%; text-align: center;">78</td>
+</tr>
+<tr>
+<td style="width: 63.9354%; text-align: center;">77</td>
+<td style="width: 35.7027%; text-align: center;">90</td>
+</tr>
+<tr>
+<td style="width: 63.9354%; text-align: center;">85</td>
+<td style="width: 35.7027%; text-align: center;">100</td>
+</tr>
+<tr>
+<td style="width: 63.9354%; text-align: center;">62</td>
+<td style="width: 35.7027%; text-align: center;">55</td>
+</tr>
+<tr>
+<td style="width: 63.9354%; text-align: center;">62</td>
+<td style="width: 35.7027%; text-align: center;">60</td>
+</tr>
+<tr>
+<td style="width: 63.9354%; text-align: center;">66</td>
+<td style="width: 35.7027%; text-align: center;">63</td>
+</tr>
+<tr>
+<td style="width: 63.9354%; text-align: center;">70</td>
+<td style="width: 35.7027%; text-align: center;">75</td>
+</tr>
+<tr>
+<td style="width: 63.9354%; text-align: center;">76</td>
+<td style="width: 35.7027%; text-align: center;">83</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Scatter Plot:</strong></p>
+<p><iframe style="border: 1px solid #ccc;" title="embedded content" src="https://www.desmos.com/calculator/itlwo2pron?embed" width="500" height="500" data-mce-fragment="1" loading="lazy"></iframe></p>
+<p><span style="color: #e03e2d;"><strong>Solution:</strong></span></p>
+<p>To draw the line of fit, we will use a line tool to draw a straight line through the data. We want to aim to split the data somewhat in half and make sure the line follows the trend we see. Then we will describe the line of fit.</p>
+<p><img id="299002" src="https://optimaondemand.github.io/mj-grade-8-pre-algebra/media/MAT08M08L01bIMGRegression1.png" alt="MAT08M08L01bIMGRegression1.png" width="506" height="345" data-api-endpoint="https://optimadomi.instructure.com/api/v1/courses/429/files/299002" data-api-returntype="File" loading="lazy"></p>
+<p>The line of fit has a positive association and can be described as having a strong fit as the points are tight around the line of fit with several touching or close to touching it.</p>
+<h4><span><br><span style="color: #e67e23;">Example 2</span></span></h4>
+<p><strong>Situation:</strong> A study examines the relationship between the number of hours spent watching TV per day and scores on a math test.</p>
+<p><strong>Data Set:</strong></p>
+<table style="border-collapse: collapse; width: 20.1043%;" border="2">
+<thead>
+<tr>
+<th style="width: 53.9503%;">Hours of TV per Day</th>
+<th style="width: 45.8357%;">Math Test Score</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="width: 53.9503%; text-align: center;">0</td>
+<td style="width: 45.8357%; text-align: center;">95</td>
+</tr>
+<tr>
+<td style="width: 53.9503%; text-align: center;">1</td>
+<td style="width: 45.8357%; text-align: center;">90</td>
+</tr>
+<tr>
+<td style="width: 53.9503%; text-align: center;">2</td>
+<td style="width: 45.8357%; text-align: center;">85</td>
+</tr>
+<tr>
+<td style="width: 53.9503%; text-align: center;">3</td>
+<td style="width: 45.8357%; text-align: center;">80</td>
+</tr>
+<tr>
+<td style="width: 53.9503%; text-align: center;">4</td>
+<td style="width: 45.8357%; text-align: center;">75</td>
+</tr>
+<tr>
+<td style="width: 53.9503%; text-align: center;">5</td>
+<td style="width: 45.8357%; text-align: center;">70</td>
+</tr>
+<tr>
+<td style="width: 53.9503%; text-align: center;">3</td>
+<td style="width: 45.8357%; text-align: center;">83</td>
+</tr>
+<tr>
+<td style="width: 53.9503%; text-align: center;">2</td>
+<td style="width: 45.8357%; text-align: center;">89</td>
+</tr>
+<tr>
+<td style="width: 53.9503%; text-align: center;">4</td>
+<td style="width: 45.8357%; text-align: center;">72</td>
+</tr>
+<tr>
+<td style="width: 53.9503%; text-align: center;">5</td>
+<td style="width: 45.8357%; text-align: center;">72</td>
+</tr>
+<tr>
+<td style="width: 53.9503%; text-align: center;">6</td>
+<td style="width: 45.8357%; text-align: center;">68</td>
+</tr>
+<tr>
+<td style="width: 53.9503%; text-align: center;">7</td>
+<td style="width: 45.8357%; text-align: center;">65</td>
+</tr>
+<tr>
+<td style="width: 53.9503%; text-align: center;">6</td>
+<td style="width: 45.8357%; text-align: center;">70</td>
+</tr>
+<tr>
+<td style="width: 53.9503%; text-align: center;">5</td>
+<td style="width: 45.8357%; text-align: center;">71</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Scatter Plot:</strong></p>
+<p><iframe style="border: 1px solid #ccc;" title="embedded content" src="https://www.desmos.com/calculator/wjwfvyzxwa?embed" width="500" height="500" data-mce-fragment="1" loading="lazy"></iframe></p>
+<p><span style="color: #e03e2d;"><strong>Solution:</strong></span></p>
+<p>To draw the line of fit, we will use a line tool to draw a straight line through the data. We want to aim to split the data somewhat in half and make sure the line follows the trend we see. Then we will describe the line of fit.</p>
+<p><img id="299003" src="https://optimaondemand.github.io/mj-grade-8-pre-algebra/media/MAT08M08L01bIMGRegression2.png" alt="MAT08M08L01bIMGRegression2.png" width="602" height="405" data-api-endpoint="https://optimadomi.instructure.com/api/v1/courses/429/files/299003" data-api-returntype="File" loading="lazy"></p>
+<p>The line of fit has a negative association and can be described as having a semi-strong fit as the points are mostly tight around the line of fit with several touching or close to touching it.</p>
+<h4><br><strong>Conclusion</strong></h4>
+<p><span>Drawing a line of fit on a scatter plot is a valuable skill in analyzing and understanding data. By determining the direction and strength of the line, you can gain insights into how two variables are related and make predictions. With practice, you'll become more confident in using scatter plots to explore the world of data around you.</span></p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#10067; ESSENTIAL QUESTIONS</div>
+    <p>1. How can you describe the pattern of association observed in a scatter plot?</p>
+<p><span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">2. What does the strength of association tell us about the relationship between two variables in a scatter plot?</span></p>
+<p><span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">3. How do you draw a line of best fit for a scatter plot informally?</span></p>
+</div>
+
+</div>
+
+<div style="background: #0E1C42; border-top: 3px solid #55C8E8; padding: 18px 34px; text-align: center;">
+    <div style="font-size: 18px; color: #ffffff; margin-bottom: 6px;"><span style="color: #55c8e8;">Optima Academy Online</span> &middot; 8TH GRADE PRE-ALGEBRA &middot; Quarter 3 &middot; Student Lesson Page</div>
+    <div style="font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 4px;">8.01b &middot; Informally Drawing Lines of Fit &amp; Determining Association &amp; Strength</div>
+    <div style="font-size: 12px; color: rgba(255,255,255,0.4);">&copy; Optima Academy Online &middot; An Education Experience Company</div>
+</div>
+
+</body>
+</html>

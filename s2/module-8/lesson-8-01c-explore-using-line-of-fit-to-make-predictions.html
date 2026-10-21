@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lesson 8.01c Explore Using Line of Fit to Make Predictions</title>
+<style>html,body{margin:0;padding:0;background:#fff}body{font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#2d3b45}img{max-width:100%;height:auto}video{max-width:100%;height:auto}</style>
+<script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"],["$$","$$"]],processEscapes:true},options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}};</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+</head>
+<body>
+<div style="background: #0E1C42; border-bottom: 5px solid #55C8E8; padding: 22px 34px;">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 10px;">
+        <div style="width: 52px; height: 52px; border-radius: 50%; background: #FFFFFF; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy" style="width: 50px; height: 40px; object-fit: contain;" /></div>
+        <div>
+            <div style="font-size: 28px; color: #ffffff; line-height: 1.2;">Optima Academy Online</div>
+            <div style="font-size: 12px; color: #55c8e8;">An Education Experience Company</div>
+        </div>
+    </div>
+    <div style="font-size: 36px; color: #ffffff; margin-bottom: 6px;">8TH GRADE PRE-ALGEBRA</div>
+</div>
+
+<div style="background: #FFFFFF; border-bottom: 2px solid #D0D9E8; display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Quarter / Module</div>
+        <div style="font-size: 18px; color: #0e1c42;">Q3 &middot; Module 8</div>
+        <div style="font-size: 13px; color: #666;">Bivariate Data Models</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Lesson</div>
+        <div style="font-size: 18px; color: #0e1c42;">8.01c</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Module Theme</div>
+        <div style="font-size: 16px; color: #0e1c42;">Bivariate Data Models</div>
+    </div>
+</div>
+
+<div style="padding: 24px 34px;">
+
+<div style="background: #EEF1F8; border-left: 5px solid #0E1C42; border-radius: 7px; padding: 18px 22px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #0e1c42; margin-bottom: 8px;">8.01c</div>
+    <div style="font-size: 22px; color: #0e1c42; margin-bottom: 6px;">Explore Using Line of Fit to Make Predictions</div>
+    <div style="font-size: 15px; color: #666;">Lesson</div>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; VOCABULARY</div>
+    <p><strong>Association:</strong> In the context of scatter plots, association refers to the relationship or pattern you can observe between two sets of data. If one set of data changes, the association describes how the other set might change in response. This can be positive (both increase), negative (one decreases as the other increases), or none (no observable pattern).</p>
+<p><strong>Bivariate Data:</strong> Bivariate data involves two variables or sets of data. When we graph bivariate data, each data point represents two connected values, allowing us to see relationships or patterns between the two variables.</p>
+<p><strong>Equation of Line of Fit:</strong> This is a mathematical formula that describes the best line that represents the trend shown by the data points in a scatter plot. It's usually in the form of \(y=mx+b\), where <img class="equation_image" title="m" src="https://optimadomi.instructure.com/equation_images/m?scale=1" alt="LaTeX: m" data-equation-content="m" data-ignore-a11y-check="" loading="lazy"> is the slope of the line and <img class="equation_image" title="b" src="https://optimadomi.instructure.com/equation_images/b?scale=1" alt="LaTeX: b" data-equation-content="b" data-ignore-a11y-check="" loading="lazy">&nbsp;is the y-intercept. This equation helps us make predictions about one variable based on the other.</p>
+<p><strong>Line of Fit:</strong> Also known as a trend line, it's a straight line drawn through the center of a group of data points plotted on a scatter plot. This line summarizes the relationship between the two variables, showing the general direction the data is moving (upwards, downwards, or level).</p>
+<p><strong>Linear Model:</strong> A linear model is a type of mathematical model that assumes a linear relationship between two variables. It's used to describe how one variable changes with respect to another, using a line of best fit or equation of line of fit.</p>
+<p><strong>Outlier:</strong> An outlier is a data point that is significantly different from the other data points in a data set. In a scatter plot, an outlier is a point that lies far away from the other points, and it can affect the slope and position of the line of fit.</p>
+<p><strong>Prediction:</strong> A prediction is a guess about a value that is not in the data set but could be expected based on the pattern shown by the data. Using the equation of the line of fit, we can make predictions about future or unknown values.</p>
+<p><strong>Scatter Plot:</strong> A scatter plot is a type of graph used to represent bivariate data. It displays individual data points plotted on a two-dimensional graph, with one variable along the x-axis and the other along the y-axis. Scatter plots are used to look for trends, patterns, and associations between the variables.</p>
+<p><strong>Strength:</strong> In the context of scatter plots, strength refers to how closely the data points follow a clear form or line. A strong association means the points closely follow a trend (linear or otherwise), making the relationship between variables clear. Weak strength means the points are more scattered and do not follow a clear trend, indicating a weaker relationship.</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128161; EXPLORING THE MATH</div>
+    <p><span>In today's lesson, we're going to explore how to use the equation of a line of fit from a scatter plot to make predictions about future values. This skill is incredibly useful, as it allows us to estimate values that aren't directly measured in our data. We'll explore how to do this for both positive and negative associations.</span></p>
+<p><span>&nbsp;</span></p>
+<h4><span style="color: #843fa1;"><strong>Understanding the Equation of a Line of Fit</strong></span></h4>
+<p>The equation of a line of fit typically looks like this: \(y=mx+b\).</p>
+<ul>
+<li><img class="equation_image" title="y" src="https://optimadomi.instructure.com/equation_images/y?scale=1" alt="LaTeX: y" data-equation-content="y" data-ignore-a11y-check="" loading="lazy"> is the dependent variable we want to predict.</li>
+<li><img class="equation_image" title="x" src="https://optimadomi.instructure.com/equation_images/x?scale=1" alt="LaTeX: x" data-equation-content="x" data-ignore-a11y-check="" loading="lazy"> is the independent variable we know.</li>
+<li><img class="equation_image" title="m" src="https://optimadomi.instructure.com/equation_images/m?scale=1" alt="LaTeX: m" data-equation-content="m" data-ignore-a11y-check="" loading="lazy"> is the slope of the line, which tells us how much <img class="equation_image" title="y" src="https://optimadomi.instructure.com/equation_images/y?scale=1" alt="LaTeX: y" data-equation-content="y" data-ignore-a11y-check="" loading="lazy"> changes for a one-unit change in <img class="equation_image" style="color: var(--ic-brand-font-color-dark); font-size: 1rem;" title="x" src="https://optimadomi.instructure.com/equation_images/x?scale=1" alt="LaTeX: x" data-equation-content="x" data-ignore-a11y-check="" loading="lazy"><span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">.</span></li>
+<li><img class="equation_image" title="b" src="https://optimadomi.instructure.com/equation_images/b?scale=1" alt="LaTeX: b" data-equation-content="b" data-ignore-a11y-check="" loading="lazy"> is the y-intercept, where the situation begins.</li>
+</ul>
+<p>&nbsp;</p>
+<h4><span style="color: #843fa1;"><strong>Making Predictions</strong></span></h4>
+<h4><strong>Predicting the Dependent Variable ( <img class="equation_image" title="y" src="https://optimadomi.instructure.com/equation_images/y?scale=1.125" alt="LaTeX: y" data-equation-content="y" data-ignore-a11y-check="" loading="lazy">&nbsp;)</strong></h4>
+<p>Given an <img class="equation_image" title="x" src="https://optimadomi.instructure.com/equation_images/x?scale=1" alt="LaTeX: x" data-equation-content="x" data-ignore-a11y-check="" loading="lazy"> value, we can predict the corresponding <img class="equation_image" title="y" src="https://optimadomi.instructure.com/equation_images/y?scale=1" alt="LaTeX: y" data-equation-content="y" data-ignore-a11y-check="" loading="lazy">&nbsp;value using our line's equation.</p>
+<h4><strong>Predicting the Independent Variable ( <img class="equation_image" title="x" src="https://optimadomi.instructure.com/equation_images/x?scale=1.125" alt="LaTeX: x" data-equation-content="x" data-ignore-a11y-check="" loading="lazy">&nbsp;)</strong></h4>
+<p>Conversely, if we have a <img class="equation_image" title="y" src="https://optimadomi.instructure.com/equation_images/y?scale=1" alt="LaTeX: y" data-equation-content="y" data-ignore-a11y-check="" loading="lazy"> value and want to find the corresponding <img class="equation_image" title="x" src="https://optimadomi.instructure.com/equation_images/x?scale=1" alt="LaTeX: x" data-equation-content="x" data-ignore-a11y-check="" loading="lazy">, we rearrange the equation: \(x=(y-b)/m\).</p>
+<p><br>Having the scatter plot with the line of fit on it can be very useful when making predictions to understand how close the prediction will be to the actual. If a line of fit has a weak assocation, the predictions will be weak. If a line of fit has a strong assocation, then the prediction will be stronger as related to the actual.</p>
+<p>However, when making predications, you only really need the situation and the equation representing the line of fit. Let's look at a few examples where this information is given. We will use the equation to make the prediction with the given value. We will practice predicting the dependent value given the x and predicting the independent value given the y.</p>
+<h4><br><span style="color: #e67e23;">Example 1</span></h4>
+<p><strong>Situation:</strong><span> A local café tracks the number of customers and daily coffee sales. The scatter plot shows a positive association, and the line of fit's equation is \(y=50x+100\), where x is the number of customers and y is the total sales in dollars.</span></p>
+<p><span>Suppose we want to predict the amount of sales if 13 customers visit.</span></p>
+<p><strong><span style="color: #e03e2d;">Solution:</span></strong></p>
+<ul>
+<li><span>We will first substitute 13 in for the x variable in the equation \(y=50x+100\).</span></li>
+<li><span>We get \(y=50(13)+100 \implies y=650+100 \implies y=750\).</span></li>
+<li><span>We predict that we could make $750 dollars in sales for 13 customers.</span></li>
+</ul>
+<p><span>Now, suppose we aim to make $800 in sales. How many customers will we need to come in to make that much?</span></p>
+<p><strong><span style="color: #e03e2d;">Solution:</span></strong></p>
+<ul>
+<li><span>We will substitute 800 in for y this time and solve for x in the same equation, \(y=50x+100\)</span></li>
+<li><span>We get \(800=50x+100 \implies 800-100=50x \implies 700/50=50x/50 \implies 14=x\).</span></li>
+<li><span>We predict we will need about 14 customers to come in in order to make $800 in sales.</span></li>
+</ul>
+<h4><span><br><span style="color: #e67e23;">Example 2</span></span></h4>
+<p><span><strong>Situation:</strong> A study shows the relationship between the hours spent on screens and sleep quality on a scale from 1 to 10. The scatter plot reveals a negative association, with the line of fit's equation being \(y=-1.5x+10\), where x is the screen time in hours, and y is sleep quality rating.</span></p>
+<p><span>Suppose we want to predict a person's sleep quality rating if they spent 4 hours in screen time on devices.</span></p>
+<p><span><strong><span style="color: #e03e2d;">Solution:</span></strong></span></p>
+<ul>
+<li><span>We will first substitute 4 in for the x variable in the equation \(y=-1.5x+10\).</span></li>
+<li><span>We get \(y=-1.5(4)+10 \implies y=-6+10 \implies y=4\).</span></li>
+<li><span>We predict that if you spend 4 hours in screen time, you will ahve a sleep quality score of 4.</span></li>
+</ul>
+<p><span>Now, suppose we want to achieve a sleep quality rating of 7. How many hours of screen time should we limit ourself to?</span></p>
+<p><span><strong><span style="color: #e03e2d;">Solution:</span></strong></span></p>
+<ul>
+<li><span>We will substitute 7 in for y this time and solve for x in the same equation, \(y=-1.5x+10\).</span></li>
+<li><span>We get \(7=-1.5x+10 \implies 7-10=-1.5x \implies -3/-1.5=-1.5x/-1.5 \implies 2=x\)</span></li>
+<li><span>We predict we will need about 2 hours of screen time to achieve a sleep quality rating of 7.</span></li>
+</ul>
+<h4><br><br><strong>Conclusion</strong></h4>
+<p>Using the equation of a line of fit to make predictions is a powerful tool in algebra. It helps us estimate unknown values, whether predicting a dependent variable based on an independent one or vice versa. With practice, you'll become proficient in using these equations to make informed predictions in various contexts. Remember, understanding the relationship between variables is key to making accurate predictions.</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#10067; ESSENTIAL QUESTIONS</div>
+    <p>1. How do you use a line of best fit to make predictions in a scatter plot?</p>
+<p>2. How accurate are predictions made using a line of best fit?</p>
+</div>
+
+</div>
+
+<div style="background: #0E1C42; border-top: 3px solid #55C8E8; padding: 18px 34px; text-align: center;">
+    <div style="font-size: 18px; color: #ffffff; margin-bottom: 6px;"><span style="color: #55c8e8;">Optima Academy Online</span> &middot; 8TH GRADE PRE-ALGEBRA &middot; Quarter 3 &middot; Student Lesson Page</div>
+    <div style="font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 4px;">8.01c &middot; Explore Using Line of Fit to Make Predictions</div>
+    <div style="font-size: 12px; color: rgba(255,255,255,0.4);">&copy; Optima Academy Online &middot; An Education Experience Company</div>
+</div>
+
+</body>
+</html>

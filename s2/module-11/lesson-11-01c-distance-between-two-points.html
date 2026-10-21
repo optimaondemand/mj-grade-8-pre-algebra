@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lesson 11.01c Distance Between Two Points</title>
+<style>html,body{margin:0;padding:0;background:#fff}body{font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#2d3b45}img{max-width:100%;height:auto}video{max-width:100%;height:auto}</style>
+<script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"],["$$","$$"]],processEscapes:true},options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}};</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+</head>
+<body>
+<div style="background: #0E1C42; border-bottom: 5px solid #55C8E8; padding: 22px 34px;">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 10px;">
+        <div style="width: 52px; height: 52px; border-radius: 50%; background: #FFFFFF; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy" style="width: 50px; height: 40px; object-fit: contain;" /></div>
+        <div>
+            <div style="font-size: 28px; color: #ffffff; line-height: 1.2;">Optima Academy Online</div>
+            <div style="font-size: 12px; color: #55c8e8;">An Education Experience Company</div>
+        </div>
+    </div>
+    <div style="font-size: 36px; color: #ffffff; margin-bottom: 6px;">8TH GRADE PRE-ALGEBRA</div>
+</div>
+
+<div style="background: #FFFFFF; border-bottom: 2px solid #D0D9E8; display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Quarter / Module</div>
+        <div style="font-size: 18px; color: #0e1c42;">Q4 &middot; Module 11</div>
+        <div style="font-size: 13px; color: #666;">Triangles and Their Side Lengths</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Lesson</div>
+        <div style="font-size: 18px; color: #0e1c42;">11.01c</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Module Theme</div>
+        <div style="font-size: 16px; color: #0e1c42;">Triangles and Their Side Lengths</div>
+    </div>
+</div>
+
+<div style="padding: 24px 34px;">
+
+<div style="background: #EEF1F8; border-left: 5px solid #0E1C42; border-radius: 7px; padding: 18px 22px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #0e1c42; margin-bottom: 8px;">11.01c</div>
+    <div style="font-size: 22px; color: #0e1c42; margin-bottom: 6px;">Distance Between Two Points</div>
+    <div style="font-size: 15px; color: #666;">Lesson</div>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; VOCABULARY</div>
+    <p><strong>Converse of the Pythagorean Theorem:</strong> The Converse of the Pythagorean Theorem states that if the square of the longest side of a triangle (often called the hypotenuse) equals the sum of the squares of the other two sides, then the triangle is a right triangle. In other words, this rule helps us determine if a triangle with certain side lengths can be a right triangle.</p>
+<p><strong>Coordinate:</strong> A coordinate is a number used to identify the location of a point on a graph or grid. It is part of a set of numbers used in a coordinate system, like the x-coordinate and y-coordinate on a coordinate plane, which show positions along the horizontal and vertical axes, respectively.</p>
+<p><strong>Coordinate Plane:</strong> The coordinate plane is a two-dimensional surface on which each point is determined by a pair of numbers, called coordinates. These coordinates correspond to distances along two perpendicular lines or axes: the horizontal axis (x-axis) and the vertical axis (y-axis).</p>
+<p><strong>Distance:</strong> Distance is a measure of how far apart two points or objects are from each other. In mathematics, it's often calculated as the straight line between two points in a space, like on a coordinate plane.</p>
+<p><strong>Hypotenuse:</strong> The hypotenuse is the longest side of a right triangle, lying opposite the right angle. It is the side used in the Pythagorean Theorem to find the relationship between the lengths of the sides of a right triangle.</p>
+<p><strong>Leg:</strong> In the context of right triangles, a leg refers to one of the two sides that form the right angle. There are always two legs in a right triangle, and they meet to form the right angle.</p>
+<p><strong>Pythagorean Theorem:</strong> The Pythagorean Theorem is a fundamental principle in geometry which states that in a right triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides (the legs). This theorem is essential for calculating distances and understanding right triangles.</p>
+<p><strong>Right Triangle:</strong> A right triangle is a type of triangle that has one angle measuring exactly 90 degrees, known as the right angle. The sides forming this right angle are called the legs, and the side opposite the right angle is the hypotenuse.</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128161; EXPLORING THE MATH</div>
+    <p>In today’s lesson, we will explore how to find the distance between two points on a coordinate plane by using the Pythagorean Theorem. You already know how to find the horizontal and vertical distances between two points. Now, we will build on that knowledge and use these distances to form a right triangle. Then, we will apply the Pythagorean Theorem to find the hypotenuse of the triangle, which represents the distance between the two points.</p>
+<h4 data-start="608" data-end="664"><span style="color: #843fa1;"><strong><br>Using the Pythagorean Theorem as the Distance Formula</strong></span></h4>
+<p class="" data-start="666" data-end="779">The Pythagorean Theorem states that for any right triangle, the relationship between the lengths of the sides is:</p>
+<p class="" data-start="666" data-end="779">\(a^2+b^2=c^2\)</p>
+<p class="" data-start="804" data-end="896">where \(a\) and \(b\) are the lengths of the legs and \(c\) is the length of the hypotenuse.</p>
+<p class="" data-start="898" data-end="920">On a coordinate plane:</p>
+<ul data-start="921" data-end="1110">
+<li class="" data-start="921" data-end="1016">
+<p class="" data-start="923" data-end="1016">The horizontal distance is the absolute difference between the x-coordinates: \(|x_2-x_1|\)</p>
+</li>
+<li class="" data-start="921" data-end="1016">
+<p class="" data-start="923" data-end="1016">The vertical distance is the absolute difference between the y-coordinates: \(|y_2-y_1|\)</p>
+</li>
+<li class="" data-start="921" data-end="1016">
+<p class="" data-start="923" data-end="1016"><span style="font-size: 1rem;">These two distances form the legs of a right triangle, and the distance between the two points is the hypotenuse.</span></p>
+</li>
+</ul>
+<h4><span style="font-size: 14pt; color: #e67e23;"><br><br>Example 1</span></h4>
+<p>Two points are shown on the graph.</p>
+<p><iframe style="border: 1px solid #ccc;" title="embedded content" src="https://www.desmos.com/calculator/vyppkegpvq?embed" width="500" height="500" loading="lazy"></iframe></p>
+<p>Find the distance between the two points.</p>
+<p><span style="color: #e03e2d;"><strong>Solution:</strong></span></p>
+<ul>
+<li>We begin by finding the horizontal distance between the two points.
+<ul>
+<li>We can do this by counting on the grid or using the formula \(|x_2-x_1|\).</li>
+<li>We find this distance to be 3 units - \(|-2-1|\implies |-3|\implies 3\)</li>
+</ul>
+</li>
+<li>Next, we find the vertical distance between the two points.
+<ul>
+<li>We find this distance to be 8 units - \(|-5-3|\implies |-8|\implies 8\)</li>
+</ul>
+</li>
+<li>Now, we use these two distances as the values of the legs of the right triangle formed on the coordinate plane to find the diagonal distance between the two points.</li>
+<li>\(3^2+8^2 \implies 9+64 \implies 73\)</li>
+<li>\(c^2=73 \implies c=\sqrt{73}\)</li>
+</ul>
+<p>The exact distance between the two points is \(\sqrt{73}\).</p>
+<p>The approximate distance between the two points is 8.54.</p>
+<p>Here is an image to show what we did.</p>
+<p><img id="639425" src="https://optimaondemand.github.io/mj-grade-8-pre-algebra/media/MAT08M11L01cIMGDistanceEx1.png" alt="MAT08M11L01cIMGDistanceEx1.png" width="287" height="427" data-api-endpoint="https://optimadomi.instructure.com/api/v1/courses/429/files/639425" data-api-returntype="File" loading="lazy"></p>
+<h4><span style="font-size: 14pt; color: #e67e23;"><br><br>Example 2</span></h4>
+<p>Find the distance between the two points \(P(-2,4)\) and \(Q(3,-1)\).</p>
+<p><span style="color: #e03e2d;"><strong>Solution:</strong></span></p>
+<ul>
+<li>You can choose to graph the two points on a coordinate plane and use the method shown above, or you can work through it algebraically.</li>
+<li>We begin by finding the horizontal distance between the two points.
+<ul>
+<li>We can do this by counting on the grid or using the formula \(|x_2-x_1|\).</li>
+<li>Name \(x_1=-2\) and \(x_2=3\)</li>
+<li>\(|3-(-2)|\implies |3+2|\implies 5\)</li>
+<li>We find the horizontal distance to be 5 units.</li>
+</ul>
+</li>
+<li>Next, we find the vertical distance between the two points.
+<ul>
+<li>Name \(y_1=4\) and \(y_2=-1\) - note that \(x_1\) and \(y_1\) are both from the point P, they CANNOT be from different points</li>
+<li>\(|-1-4|\implies |-5|\implies 5\)</li>
+</ul>
+</li>
+<li>Now, we use these two distances as the values of the legs of the right triangle formed on the coordinate plane to find the diagonal distance between the two points.</li>
+<li>\(5^2+5^2 \implies 25+25 \implies 50\)</li>
+<li>\(c^2=50 \implies c=\sqrt{50}\)</li>
+</ul>
+<p>The exact distance between the two points is \(\sqrt{50}\).</p>
+<p>The approximate distance between the two points is 7.07.</p>
+<h4><span style="font-size: 14pt; color: #e67e23;"><br><br>Example 3</span></h4>
+<p>Find the distance between the two points \(M(6,-3)\) and \(N(2,4)\).</p>
+<p><span style="color: #e03e2d;"><strong>Solution:</strong></span></p>
+<ul>
+<li>You can choose to graph the two points on a coordinate plane and use the method shown above, or you can work through it algebraically.</li>
+<li>We begin by finding the horizontal distance between the two points.
+<ul>
+<li>We can do this by counting on the grid or using the formula \(|x_2-x_1|\).</li>
+<li>Name \(x_1=6\) and \(x_2=2\)</li>
+<li>\(|2-6|\implies |-4|\implies 4\)</li>
+<li>We find the horizontal distance to be 4 units.</li>
+</ul>
+</li>
+<li>Next, we find the vertical distance between the two points.
+<ul>
+<li>Name \(y_1=-3\) and \(y_2=4\) - note that \(x_1\) and \(y_1\) are both from the point M, they CANNOT be from different points</li>
+<li>\(|4-(-3)|\implies |4+3|\implies |7|\implies 7\)</li>
+</ul>
+</li>
+<li>Now, we use these two distances as the values of the legs of the right triangle formed on the coordinate plane to find the diagonal distance between the two points.</li>
+<li>\(4^2+7^2 \implies 16+49 \implies 65\)</li>
+<li>\(c^2=65 \implies c=\sqrt{65}\)</li>
+</ul>
+<p>The exact distance between the two points is \(\sqrt{50}\).</p>
+<p>The approximate distance between the two points is 8.06.</p>
+<h4 data-start="2433" data-end="2446"><br><br>Conclusion</h4>
+<p class="" data-start="2448" data-end="3028">Today, you learned how to use the Pythagorean Theorem to find the distance between two points on a coordinate plane. By finding the horizontal and vertical distances and applying the theorem, you can calculate the length of the line segment connecting the two points. This process led us to the Distance Formula, which is a quick and easy way to solve for distance without always needing a graph. Understanding how the Distance Formula is built from the Pythagorean Theorem helps you see the connections between different areas of math and strengthens your problem-solving skills.</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#10067; ESSENTIAL QUESTIONS</div>
+    <p>1. <span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">How is the Pythagorean Theorem used to derive the distance formula?</span></p>
+<p><span style="color: var(--ic-brand-font-color-dark); font-size: 1rem;">2. What are some real-life applications of the distance formula?</span></p>
+</div>
+
+</div>
+
+<div style="background: #0E1C42; border-top: 3px solid #55C8E8; padding: 18px 34px; text-align: center;">
+    <div style="font-size: 18px; color: #ffffff; margin-bottom: 6px;"><span style="color: #55c8e8;">Optima Academy Online</span> &middot; 8TH GRADE PRE-ALGEBRA &middot; Quarter 4 &middot; Student Lesson Page</div>
+    <div style="font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 4px;">11.01c &middot; Distance Between Two Points</div>
+    <div style="font-size: 12px; color: rgba(255,255,255,0.4);">&copy; Optima Academy Online &middot; An Education Experience Company</div>
+</div>
+
+</body>
+</html>

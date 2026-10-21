@@ -1,0 +1,101 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Lesson 11.02a Determining if a Triangle Exists</title>
+<style>html,body{margin:0;padding:0;background:#fff}body{font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:16px;line-height:1.5;color:#2d3b45}img{max-width:100%;height:auto}video{max-width:100%;height:auto}</style>
+<script>window.MathJax={tex:{inlineMath:[["\\(","\\)"]],displayMath:[["\\[","\\]"],["$$","$$"]],processEscapes:true},options:{skipHtmlTags:["script","noscript","style","textarea","pre","code"]}};</script>
+<script async src="https://cdn.jsdelivr.net/npm/mathjax@3.2.2/es5/tex-chtml.js"></script>
+</head>
+<body>
+<div style="background: #0E1C42; border-bottom: 5px solid #55C8E8; padding: 22px 34px;">
+    <div style="display: flex; align-items: center; gap: 14px; margin-bottom: 10px;">
+        <div style="width: 52px; height: 52px; border-radius: 50%; background: #FFFFFF; display: flex; align-items: center; justify-content: center; flex-shrink: 0;"><img src="https://raw.githubusercontent.com/optimaondemand/optima-assets/eeb0b335630058906d52f478028361d352253a93/images/Optima%20Final%20Circle%20-%20Owl%20Only.png" alt="Optima Academy" style="width: 50px; height: 40px; object-fit: contain;" /></div>
+        <div>
+            <div style="font-size: 28px; color: #ffffff; line-height: 1.2;">Optima Academy Online</div>
+            <div style="font-size: 12px; color: #55c8e8;">An Education Experience Company</div>
+        </div>
+    </div>
+    <div style="font-size: 36px; color: #ffffff; margin-bottom: 6px;">8TH GRADE PRE-ALGEBRA</div>
+</div>
+
+<div style="background: #FFFFFF; border-bottom: 2px solid #D0D9E8; display: flex; flex-wrap: wrap;">
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Quarter / Module</div>
+        <div style="font-size: 18px; color: #0e1c42;">Q4 &middot; Module 11</div>
+        <div style="font-size: 13px; color: #666;">Triangles and Their Side Lengths</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px; border-right: 1px solid #D0D9E8;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Lesson</div>
+        <div style="font-size: 18px; color: #0e1c42;">11.02a</div>
+    </div>
+    <div style="flex: 1; min-width: 150px; padding: 12px 16px;">
+        <div style="font-size: 11px; color: #6b7a99; margin-bottom: 4px;">Module Theme</div>
+        <div style="font-size: 16px; color: #0e1c42;">Triangles and Their Side Lengths</div>
+    </div>
+</div>
+
+<div style="padding: 24px 34px;">
+
+<div style="background: #EEF1F8; border-left: 5px solid #0E1C42; border-radius: 7px; padding: 18px 22px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #0e1c42; margin-bottom: 8px;">11.02a</div>
+    <div style="font-size: 22px; color: #0e1c42; margin-bottom: 6px;">Determining if a Triangle Exists</div>
+    <div style="font-size: 15px; color: #666;">Lesson</div>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128218; VOCABULARY</div>
+    <p class="" data-start="58" data-end="250"><strong data-start="58" data-end="74">Feasible Set</strong>: A collection of all possible points or values that satisfy a given set of conditions or inequalities; in geometry, it refers to sets of side lengths that can form a triangle.</p>
+<p class="" data-start="252" data-end="390"><strong data-start="252" data-end="266">Inequality</strong>: A mathematical statement showing that two values are not equal and that one is either greater than or less than the other.</p>
+<p class="" data-start="392" data-end="524"><strong data-start="392" data-end="408">Side Lengths</strong>: The measurements of the edges of a polygon; for triangles, these are the three segments that connect the vertices.</p>
+<p class="" data-start="526" data-end="584"><strong data-start="526" data-end="538">Triangle</strong>: A polygon with three sides and three angles.</p>
+<p class="" data-start="586" data-end="767"><strong data-start="586" data-end="617">Triangle Inequality Theorem</strong>: A rule stating that the sum of the lengths of any two sides of a triangle must be greater than the length of the third side for a triangle to exist.</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#128161; EXPLORING THE MATH</div>
+    <p>In today’s lesson, we will explore the Triangle Inequality Theorem and how it helps us determine whether three given side lengths can form a triangle. You already know that a triangle is a polygon with three sides. But not every set of three side lengths will make a triangle. Using the Triangle Inequality Theorem, we can test sets of side lengths and decide if they are feasible, meaning they can actually form a triangle.</p>
+<h4 data-start="1271" data-end="1314"><span style="color: #843fa1;"><strong><br>What is the Triangle Inequality Theorem?</strong></span></h4>
+<p class="" data-start="1316" data-end="1540">The <strong data-start="1320" data-end="1351">Triangle Inequality Theorem</strong> says that for any three side lengths, the sum of the lengths of any two sides must be greater than the length of the third side. This rule must be true for all three combinations of sides.</p>
+<p class="" data-start="1542" data-end="1606">In mathematical terms, for side lengths \(a\), \(b\), and \(c\);</p>
+<p class="" data-start="1542" data-end="1606">\(a+b&gt;c\)</p>
+<p class="" data-start="1542" data-end="1606">\(a+c&gt;b\)</p>
+<p class="" data-start="1542" data-end="1606">\(b+c&gt;a\)</p>
+<p class="" data-start="1542" data-end="1606">If <strong data-start="1660" data-end="1673">all three</strong> inequalities are true, the side lengths form a triangle. If even one of the inequalities is false, a triangle <strong data-start="1784" data-end="1794">cannot</strong> be formed.</p>
+<h4 data-start="1542" data-end="1606"><span style="color: #e67e23;"><br><br>Example 1</span></h4>
+<p>Given side lengths 5, 7, and 10, can these sides form a triangle?</p>
+<p><span style="color: #e03e2d;"><strong>Check:</strong></span></p>
+<p>\(5+7=12 \implies 12&gt;10\checkmark \)</p>
+<p>\(5+10=15 \implies 15&gt;7\checkmark \)</p>
+<p>\(7+10=17 \implies 17&gt;5\checkmark \)</p>
+<p>Since all inequalities are true, <strong data-start="2001" data-end="2008">yes</strong>, these side lengths can form a triangle.</p>
+<h4 data-start="1542" data-end="1606"><span style="color: #e67e23;"><br><br>Example 2</span></h4>
+<p>Given side lengths 3, 4, and 8, can these sides form a triangle?</p>
+<p><span style="color: #e03e2d;"><strong>Check:</strong></span></p>
+<p>\(3+4=7 \implies 7&lt;8 \)X</p>
+<p>\(3+8=11 \implies 11&gt;4\checkmark \)</p>
+<p>\(4+8=12 \implies 12&gt;3\checkmark \)</p>
+<p>Because \(3+4\) is not greater than \(8\), these side lengths <strong data-start="2290" data-end="2300">cannot</strong> form a triangle.</p>
+<h4 data-start="2324" data-end="2337"><br><br>Conclusion</h4>
+<p class="" data-start="2339" data-end="2835">Today you learned that not all sets of side lengths can form a triangle. By using the Triangle Inequality Theorem, you can test three lengths to see if they satisfy the necessary conditions. Remember, the sum of any two sides must always be greater than the third side. This rule is important in many areas of geometry and helps you understand the basic properties of shapes. With practice, you’ll quickly be able to determine whether a triangle can be formed just by looking at the side lengths!</p>
+</div>
+
+<div style="background: #FFFFFF; border-top: 3px solid #C7922C; border: 1px solid #D0D9E8; border-radius: 8px; padding: 20px 24px; margin-bottom: 20px;">
+    <div style="font-size: 11px; color: #c7922c; margin-bottom: 14px;">&#10067; ESSENTIAL QUESTIONS</div>
+    <p>1. How can you use the Triangle Inequality Theorem to determine if three side lengths can form a triangle?</p>
+<p>2. What happens if one side of a triangle is longer than the sum of the other two sides?</p>
+<p>3. What criteria must be met for three lengths to be possible sides of a triangle?</p>
+<p>4. How do the criteria change when determining the side lengths of a right triangle?</p>
+</div>
+
+</div>
+
+<div style="background: #0E1C42; border-top: 3px solid #55C8E8; padding: 18px 34px; text-align: center;">
+    <div style="font-size: 18px; color: #ffffff; margin-bottom: 6px;"><span style="color: #55c8e8;">Optima Academy Online</span> &middot; 8TH GRADE PRE-ALGEBRA &middot; Quarter 4 &middot; Student Lesson Page</div>
+    <div style="font-size: 13px; color: rgba(255,255,255,0.65); margin-bottom: 4px;">11.02a &middot; Determining if a Triangle Exists</div>
+    <div style="font-size: 12px; color: rgba(255,255,255,0.4);">&copy; Optima Academy Online &middot; An Education Experience Company</div>
+</div>
+
+</body>
+</html>
