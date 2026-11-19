@@ -1,0 +1,1485 @@
+{
+ "module": "M/J Grade 8 Pre-Algebra",
+ "note": "Semester 2 sparkle lessons (7.01a to 12.03b). Per lesson: a title sign, every picture the lesson shows, and each worked example's question when it is plain text. The owl logo, the teacher portrait and figures drawn in HTML are left out.",
+ "look": {
+  "accent": "#C7922C",
+  "paper": "#F6F7FC",
+  "ink": "#0E1C42",
+  "muted": "#5d6883"
+ },
+ "lessons": [
+  {
+   "page": "7-01a-identifying-ordered-pairs-from-a-set-that-satisfy-a-system-of-equations.html",
+   "heading": "7.01a",
+   "title": "Identifying Ordered Pairs from a Set that Satisfy a System of Equations",
+   "folder": "7.01a - Identifying Ordered Pairs from",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M07L01aIMGSystemGraphEx.png",
+       "label": "What is a System of Linear Equations?"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-02a-examining-graphs-to-determine-the-number-of-solutions.html",
+   "heading": "7.02a",
+   "title": "Examining Graphs to Determine the Number of Solutions",
+   "folder": "7.02a - Examining Graphs to Determine",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Examining Graphs to Determine the Number of Solutions"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M07L02aIMGConsistentIndependent.png",
+       "label": "Number of Solutions and Classifications"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M07L02aIMGInconsistent.png",
+       "label": "Number of Solutions and Classifications"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M05L02aIMGConsistentDependent.png",
+       "label": "Number of Solutions and Classifications"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Determine if the system is inconsistent, consistent dependent, or consistent independent.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Determine if the system is inconsistent, consistent dependent, or consistent independent.",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-03a-graphing-systems-of-equations-to-determine-the-solution.html",
+   "heading": "7.03a",
+   "title": "Graphing Systems of Equations to Determine the Solution",
+   "folder": "7.03a - Graphing Systems of Equations",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Graphing Systems of Equations to Determine the Solution"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Graph the system of equations and write the solution to the system.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Graph the system of equations and write the solution to the system.",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Graph the system of equations and write the solution to the system.",
+       "short": "Example 3",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Graph the system of equations and write the solution to the system.",
+       "short": "Example 4",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "7-03b-graphing-systems-in-real-world-problems.html",
+   "heading": "7.03b",
+   "title": "Graphing Systems in Real-World Problems",
+   "folder": "7.03b - Graphing Systems in Real-World",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Graphing Systems in Real-World Problems"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-01a-constructing-a-scatter-plot-and-looking-at-patterns.html",
+   "heading": "8.01a",
+   "title": "Constructing a Scatter Plot and Looking at Patterns",
+   "folder": "8.01a - Constructing a Scatter Plot an",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Constructing a Scatter Plot and Looking at Patterns"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-01b-informally-drawing-lines-of-fit-determining-association-strength.html",
+   "heading": "8.01b",
+   "title": "Informally Drawing Lines of Fit & Determining Association & Strength",
+   "folder": "8.01b - Informally Drawing Lines of Fi",
+   "activities": [
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M08L01bIMGRegression1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M08L01bIMGRegression2.png",
+       "label": "Example 2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-01c-explore-using-line-of-fit-to-make-predictions.html",
+   "heading": "8.01c",
+   "title": "Explore Using Line of Fit to Make Predictions",
+   "folder": "8.01c - Explore Using Line of Fit to M",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Explore Using Line of Fit to Make Predictions"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-02a-constructing-a-line-graph.html",
+   "heading": "8.02a",
+   "title": "Constructing a Line Graph",
+   "folder": "8.02a - Constructing a Line Graph",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Constructing a Line Graph"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M08L02IMGLineGraph1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M08L02IMGLineGraph2.png",
+       "label": "Example 2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-02b-describing-association-and-trends.html",
+   "heading": "8.02b",
+   "title": "Describing Association and Trends",
+   "folder": "8.02b - Describing Association and Tre",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Describing Association and Trends"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M08L02IMGLineGraph1.png",
+       "label": "Example 1: Monthly Average Temperature"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M08L02IMGLineGraph2.png",
+       "label": "Example 2: Monthly Average Rainfall"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "8-02c-exploring-making-predictions.html",
+   "heading": "8.02c",
+   "title": "Exploring Making Predictions",
+   "folder": "8.02c - Exploring Making Predictions",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Exploring Making Predictions"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M08L02IMGLineGraph1.png",
+       "label": "Example 1: Monthly Average Temperature"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M08L02IMGLineGraph2.png",
+       "label": "Example 2: Monthly Average Rainfall"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-01a-sample-space.html",
+   "heading": "9.01a",
+   "title": "Sample Space",
+   "folder": "9.01a - Sample Space",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Suppose you are flipping a coin. What is the sample space for flipping a coin?",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "If you are rolling a six-sided dice, what would the sample space be?",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "If you were drawing a marble from a bag that contains 3 green marbles, 4 red marbles, 2 blue marbles, and 5 yellow marbles, what is the sample space?",
+       "short": "Example 3",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Sample Space"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "You're rolling a standard 6-sided die two consecutive times. What is the sample space of this repeated experiment?",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "You draw a marble from a bag with 4 pink, 2 blue, and 1 yellow marble, then spin a spinner divided into four sections labeled A, B, C, and D.",
+       "short": "Example 3",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-01b-theoretical-probability.html",
+   "heading": "9.01b",
+   "title": "Theoretical Probability",
+   "folder": "9.01b - Theoretical Probability",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Imagine you have a 12-sided die, and you want to find the probability of rolling a 4.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Suppose you have a bag with 2 green marbles, 3 red marbles, and 5 blue marbles. What's the probability of drawing a red marble?",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "What is the probability of rolling a 2 or 7 on a 10-sided die?",
+       "short": "Example 4",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Theoretical Probability"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Suppose you are rolling a 6-sided die. You are going to roll the die twice in the repeated experiment.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "A bag contains 5 yellow, 3 red, and 7 blue marbles.",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-01c-likelihood.html",
+   "heading": "9.01c",
+   "title": "Likelihood",
+   "folder": "9.01c - Likelihood",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT07M07IMG5SectionSpinner.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "moment",
+       "text": "What is the likelihood of drawing out a green marble?",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Likelihood"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08U09L01IMGLikelihoodScale.jpg",
+       "label": "The Likelihood Scale:"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Suppose you are rolling a 6-sided die. You are going to roll the die twice in the repeated experiment.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "A bag contains 5 yellow, 3 red, and 7 blue marbles.",
+       "short": "Example 2",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Suppose you are conducting an experiment where you are going to roll an 8-sided die and then flip a coin.",
+       "short": "Example 3",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Suppose you are drawing a marble from a bag of marbles that contains only blue marbles.",
+       "short": "Example 4",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-02a-predictions-in-simple-experiments.html",
+   "heading": "9.02a",
+   "title": "Predictions in Simple Experiments",
+   "folder": "9.02a - Predictions in Simple Experime",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "What is the experimental probability of a 2 or 7 being rolled?",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "What is the experimental probability of a red marble being drawn?",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Predictions in Simple Experiments"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Suppose you want to simulate an experiment where you roll a 10-sided die.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "You conduct an experiment where you are going to draw a card from a standard deck of 52 cards.",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "9-02b-predictions-and-experimental-probability-in-repeated-experiments.html",
+   "heading": "9.02b",
+   "title": "Predictions and Experimental Probability in Repeated Experiments",
+   "folder": "9.02b - Predictions and Experimental P",
+   "activities": [
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "First, you roll a 6-sided die hoping for an even number. Then, from a bag with 5 red and 5 green marbles, you draw one marble, looking for a red one.",
+       "short": "Example 1",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "10-01a-complementary-angles.html",
+   "heading": "10.01a",
+   "title": "Complementary Angles",
+   "folder": "10.01a - Complementary Angles",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M10L01aIMGAcuteAngle.png",
+       "label": "Acute Angles"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L01aIMGObtuseAngle.png",
+       "label": "Obtuse Angles"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L01aIMGRightAngle.png",
+       "label": "Right Angles"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L01aIMGStraightAngle.png",
+       "label": "Straight Angles"
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Complementary Angles"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L01aIMGComplAngles.png",
+       "label": "How Are Complementary Angles Related?"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M10L01aIMGRightAnglewRay.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L01aIMGRightAnglewRay2.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "10-01b-supplementary-angles.html",
+   "heading": "10.01b",
+   "title": "Supplementary Angles",
+   "folder": "10.01b - Supplementary Angles",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Supplementary Angles"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M10L01bIMGSupplementary1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L01bIMGSupplementary2.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "10-01c-vertical-angles.html",
+   "heading": "10.01c",
+   "title": "Vertical Angles",
+   "folder": "10.01c - Vertical Angles",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Vertical Angles"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M10L01cIMGVertical1.png",
+       "label": "Example 1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "10-01d-adjacent-angles.html",
+   "heading": "10.01d",
+   "title": "Adjacent Angles",
+   "folder": "10.01d - Adjacent Angles",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Adjacent Angles"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L01IMGAdjacent2.png",
+       "label": "How the Measures of Adjacent Angles Are Related"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L01IMGAdjacent1.png",
+       "label": "How the Measures of Adjacent Angles Are Related"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M10L01IMGAdjacent3.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L01IMGAdjacent4.png",
+       "label": "Example 2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "10-02a-triangle-sum-theorem.html",
+   "heading": "10.02a",
+   "title": "Triangle Sum Theorem",
+   "folder": "10.02a - Triangle Sum Theorem",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Triangle Sum Theorem"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M10L02aIMGTriangle.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L02aIMGTriangle2.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "10-02b-exterior-angle-theorem.html",
+   "heading": "10.02b",
+   "title": "Exterior Angle Theorem",
+   "folder": "10.02b - Exterior Angle Theorem",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M10L02bIMGPriorTriangle1.png",
+       "label": "What is an Interior Angle?"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L02bIMGPriorTriangle2.png",
+       "label": "What is an Exterior Angle?"
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Exterior Angle Theorem"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M10L02bIMGTriangle1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L02bIMGTriangle2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L02bIMGTriangle4.png",
+       "label": "Example 3"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L02bIMGTriangle3.png",
+       "label": "Example 4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "10-03a-formula-for-the-sum-of-interior-angles-in-a-polygon.html",
+   "heading": "10.03a",
+   "title": "Formula for the Sum of Interior Angles in a Polygon",
+   "folder": "10.03a - Formula for the Sum of Interio",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Formula for the Sum of Interior Angles in a Polygon"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L03aIMGPentagon1.png",
+       "label": "Why the Formula Works:"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "What is the sum of the interior angles of a pentagon?",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L03aIMGHexagon1.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L03aIMGPentagon2.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "10-03b-formula-for-an-interior-angle-in-a-regular-polygon.html",
+   "heading": "10.03b",
+   "title": "Formula for an Interior Angle in a Regular Polygon",
+   "folder": "10.03b - Formula for an Interior Angle",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M10L02aIMGTriangle.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "moment",
+       "text": "What is the measure of the interior angles in a regular triangle?",
+       "short": "Example 3",
+       "imgs": []
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Formula for an Interior Angle in a Regular Polygon"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "A polygon ABCDE is a regular pentagon. Find the measure of one of the interior angles.",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M10L03bIMGOctagon.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "moment",
+       "text": "Find how many sides the polygon has.",
+       "short": "Example 3",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "11-01a-determining-if-a-triangle-is-a-right-triangle.html",
+   "heading": "11.01a",
+   "title": "Determining if a Triangle is a Right Triangle",
+   "folder": "11.01a - Determining if a Triangle is a",
+   "activities": [
+    {
+     "name": "Warm-Up",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M12L01aIMGPKCRtTriangle.png",
+       "label": "Parts of a Right Triangle"
+      }
+     ]
+    },
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Determining if a Triangle is a Right Triangle"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M11L01aIMGRightTriEx.png",
+       "label": "The Pythagorean Theorem"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "11-01b-finding-a-missing-side-of-a-right-triangle.html",
+   "heading": "11.01b",
+   "title": "Finding a Missing Side of a Right Triangle",
+   "folder": "11.01b - Finding a Missing Side of a Ri",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Finding a Missing Side of a Right Triangle"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M11L01bIMGLessonTriangle2.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M11L01bIMGLessonTriangle1.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "image-2f5d70ec-470a-419a-a9c6-5b3ed91bee3b.png",
+       "label": "Example 2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "11-01c-distance-between-two-points.html",
+   "heading": "11.01c",
+   "title": "Distance Between Two Points",
+   "folder": "11.01c - Distance Between Two Points",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Distance Between Two Points"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M11L01cIMGDistanceEx1.png",
+       "label": "Example 1"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "11-01d-applying-the-pythagorean-theorem-to-real-world.html",
+   "heading": "11.01d",
+   "title": "Applying the Pythagorean Theorem to Real-World",
+   "folder": "11.01d - Applying the Pythagorean Theor",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Applying the Pythagorean Theorem to Real-World"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M11L01dIMGRealWorldEx1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M11L01dIMGRealWorldEx2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M11L01dIMGRealWorldEx3.png",
+       "label": "Example 3"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "11-02a-determining-if-a-triangle-exists.html",
+   "heading": "11.02a",
+   "title": "Determining if a Triangle Exists",
+   "folder": "11.02a - Determining if a Triangle Exis",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Determining if a Triangle Exists"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Given side lengths 5, 7, and 10, can these sides form a triangle?",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Given side lengths 3, 4, and 8, can these sides form a triangle?",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "11-02b-possible-side-lengths-of-a-triangle.html",
+   "heading": "11.02b",
+   "title": "Possible Side Lengths of a Triangle",
+   "folder": "11.02b - Possible Side Lengths of a Tri",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Possible Side Lengths of a Triangle"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "moment",
+       "text": "Given the side lengths 4 and 11, what could the third side be?",
+       "short": "Example 1",
+       "imgs": []
+      },
+      {
+       "type": "moment",
+       "text": "Given side lengths 7 and 22, which of the following could be the third side?",
+       "short": "Example 2",
+       "imgs": []
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "12-01a-translations-and-reflections.html",
+   "heading": "12.01a",
+   "title": "Translations and Reflections",
+   "folder": "12.01a - Translations and Reflections",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Translations and Reflections"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L01aIMGLessonTranslationRight.png",
+       "label": "Examples:"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L01aIMGLessonTranslationDown.png",
+       "label": "Examples:"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L01aIMGLessonHorizontalReflection.png",
+       "label": "Reflections"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L01aIMGLessonVerticalReflection.png",
+       "label": "Reflections"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L01aIMGLessonDiagonalReflection.png",
+       "label": "Reflections"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "12-01b-rotations.html",
+   "heading": "12.01b",
+   "title": "Rotations",
+   "folder": "12.01b - Rotations",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Rotations"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L01bIMGLesson180Rotation.png",
+       "label": "Examples of Rotations"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L01bIMGLesson270Rotation.png",
+       "label": "Examples of Rotations"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "12-01c-dilations.html",
+   "heading": "12.01c",
+   "title": "Dilations",
+   "folder": "12.01c - Dilations",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Dilations"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M12L01cIMGLessonDilation1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L01cIMGLessonDilation2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L01cIMGLessonDilation3.png",
+       "label": "Example 3"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L01cIMGLessonDilation4.png",
+       "label": "Example 4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "12-01d-preserving-congruence-versus-similarity.html",
+   "heading": "12.01d",
+   "title": "Preserving Congruence versus Similarity",
+   "folder": "12.01d - Preserving Congruence versus S",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Preserving Congruence versus Similarity"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "12-02a-translations-and-reflections-in-the-coordinate-plane.html",
+   "heading": "12.02a",
+   "title": "Translations and Reflections in the Coordinate Plane",
+   "folder": "12.02a - Translations and Reflections i",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Translations and Reflections in the Coordinate Plane"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02aIMGTransLeft.png",
+       "label": "Identifying Translations and Reflections"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02aIMGTransUp.png",
+       "label": "Identifying Translations and Reflections"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02aIMGReflectionYAxis.png",
+       "label": "Identifying Translations and Reflections"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02aIMGReflectionXAxis.png",
+       "label": "Identifying Translations and Reflections"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02aIMGReflectionVertLine.png",
+       "label": "Identifying Translations and Reflections"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M12L02aIMGReflectioEx1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02aIMGTranslationEx2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02aIMGDrawTransEx3.png",
+       "label": "Example 3"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02aIMGTransEx3Ans.png",
+       "label": "Example 3"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02aIMGDrawReflEx3.png",
+       "label": "Example 4"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02aIMGDrawReflectAns.png",
+       "label": "Example 4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "12-02b-rotations-in-the-coordinate-plane.html",
+   "heading": "12.02b",
+   "title": "Rotations in the Coordinate Plane",
+   "folder": "12.02b - Rotations in the Coordinate Pl",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Rotations in the Coordinate Plane"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02bIMG90Rotation.png",
+       "label": "Identifying Rotations: 90°, 180°, and 270° Around the Origin"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02bIMG180Rotation.png",
+       "label": "Identifying Rotations: 90°, 180°, and 270° Around the Origin"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02bIMG270Rotation.png",
+       "label": "Identifying Rotations: 90°, 180°, and 270° Around the Origin"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M12L02bIMGRotationEx1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02bIMGRotationEx2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02bIMGDrawRotatEx3.png",
+       "label": "Example 3"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02bIMGDrawRotatEx4.png",
+       "label": "Example 4"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02bIMGRotatEx4Ans.png",
+       "label": "Example 4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "12-02c-dilations-in-the-coordinate-plane.html",
+   "heading": "12.02c",
+   "title": "Dilations in the Coordinate Plane",
+   "folder": "12.02c - Dilations in the Coordinate Pl",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Dilations in the Coordinate Plane"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02cIMGRotationEnlarge.png",
+       "label": "Identifying a Dilation About the Origin"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02cIMGRotationReduction.png",
+       "label": "Identifying a Dilation About the Origin"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M12L02cIMGIdentifyDilationEx1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02cIMGIdentifyDilationEx2.png",
+       "label": "Example 2"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02cIMGDrawingDilationEx3.png",
+       "label": "Example 3"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02cINMGDrawingDilationEx3Ans.png",
+       "label": "Example 3"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02cIMGDrawingDilationEx4.png",
+       "label": "Example 4"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L02cIMGDrawingDilationEx4Ans.png",
+       "label": "Example 4"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "12-03a-proportionality-in-similar-figures.html",
+   "heading": "12.03a",
+   "title": "Proportionality in Similar Figures",
+   "folder": "12.03a - Proportionality in Similar Fig",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Proportionality in Similar Figures"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L03aIMGSimilarTriangles.png",
+       "label": "What Are Similar Triangles?"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M12L03aIMGSimilarTriEx2.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L03aIMGSimilarTriEx1.png",
+       "label": "Example 2"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "page": "12-03b-similar-triangles-in-real-world-problems.html",
+   "heading": "12.03b",
+   "title": "Similar Triangles in Real-World Problems",
+   "folder": "12.03b - Similar Triangles in Real-Worl",
+   "activities": [
+    {
+     "name": "Learn",
+     "cards": [
+      {
+       "type": "sign",
+       "label": "Similar Triangles in Real-World Problems"
+      }
+     ]
+    },
+    {
+     "name": "Examples",
+     "cards": [
+      {
+       "type": "picture",
+       "img": "MAT08M12L03bIMGSimTriEx1.png",
+       "label": "Example 1"
+      },
+      {
+       "type": "picture",
+       "img": "MAT08M12L03bIMGSimTriEx2.png",
+       "label": "Example 2"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

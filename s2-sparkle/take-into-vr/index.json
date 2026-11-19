@@ -1,0 +1,1597 @@
+{
+ "version": 1,
+ "module": "M/J Grade 8 Pre-Algebra",
+ "made": "2026-11-18",
+ "lessons": [
+  {
+   "page": "7-01a-identifying-ordered-pairs-from-a-set-that-satisfy-a-system-of-equations.html",
+   "heading": "7.01a",
+   "title": "Identifying Ordered Pairs from a Set that Satisfy a System of Equations",
+   "folder": "7.01a - Identifying Ordered Pairs from",
+   "combined": {
+    "path": "7.01a - Identifying Ordered Pairs from/7.01a - all cards.pdf",
+    "bytes": 53719
+   },
+   "files": [
+    {
+     "path": "7.01a - Identifying Ordered Pairs from/Learn/01 - What is a System of Linear Equations.pdf",
+     "thumb": "thumbs/7.01a - Identifying Ordered Pairs from/Learn/01 - What is a System of Linear Equations.jpg",
+     "activity": "Learn",
+     "label": "What is a System of Linear Equations?",
+     "bytes": 53719
+    }
+   ]
+  },
+  {
+   "page": "7-02a-examining-graphs-to-determine-the-number-of-solutions.html",
+   "heading": "7.02a",
+   "title": "Examining Graphs to Determine the Number of Solutions",
+   "folder": "7.02a - Examining Graphs to Determine",
+   "combined": {
+    "path": "7.02a - Examining Graphs to Determine/7.02a - all cards.pdf",
+    "bytes": 174072
+   },
+   "files": [
+    {
+     "path": "7.02a - Examining Graphs to Determine/Learn/01 - Sign - Examining Graphs to Determine the Number of Solutions.pdf",
+     "thumb": "thumbs/7.02a - Examining Graphs to Determine/Learn/01 - Sign - Examining Graphs to Determine the Number of Solutions.jpg",
+     "activity": "Learn",
+     "label": "Examining Graphs to Determine the Number of Solutions",
+     "bytes": 20103
+    },
+    {
+     "path": "7.02a - Examining Graphs to Determine/Learn/02 - Number of Solutions and Classifications.pdf",
+     "thumb": "thumbs/7.02a - Examining Graphs to Determine/Learn/02 - Number of Solutions and Classifications.jpg",
+     "activity": "Learn",
+     "label": "Number of Solutions and Classifications",
+     "bytes": 72225
+    },
+    {
+     "path": "7.02a - Examining Graphs to Determine/Learn/03 - Number of Solutions and Classifications.pdf",
+     "thumb": "thumbs/7.02a - Examining Graphs to Determine/Learn/03 - Number of Solutions and Classifications.jpg",
+     "activity": "Learn",
+     "label": "Number of Solutions and Classifications",
+     "bytes": 75183
+    },
+    {
+     "path": "7.02a - Examining Graphs to Determine/Learn/04 - Number of Solutions and Classifications.pdf",
+     "thumb": "thumbs/7.02a - Examining Graphs to Determine/Learn/04 - Number of Solutions and Classifications.jpg",
+     "activity": "Learn",
+     "label": "Number of Solutions and Classifications",
+     "bytes": 58801
+    },
+    {
+     "path": "7.02a - Examining Graphs to Determine/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/7.02a - Examining Graphs to Determine/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Determine if the system is inconsistent, consistent dependent, or consistent independent.",
+     "bytes": 20116
+    },
+    {
+     "path": "7.02a - Examining Graphs to Determine/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/7.02a - Examining Graphs to Determine/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Determine if the system is inconsistent, consistent dependent, or consistent independent.",
+     "bytes": 19944
+    }
+   ]
+  },
+  {
+   "page": "7-03a-graphing-systems-of-equations-to-determine-the-solution.html",
+   "heading": "7.03a",
+   "title": "Graphing Systems of Equations to Determine the Solution",
+   "folder": "7.03a - Graphing Systems of Equations",
+   "combined": {
+    "path": "7.03a - Graphing Systems of Equations/7.03a - all cards.pdf",
+    "bytes": 25712
+   },
+   "files": [
+    {
+     "path": "7.03a - Graphing Systems of Equations/Learn/01 - Sign - Graphing Systems of Equations to Determine the Solution.pdf",
+     "thumb": "thumbs/7.03a - Graphing Systems of Equations/Learn/01 - Sign - Graphing Systems of Equations to Determine the Solution.jpg",
+     "activity": "Learn",
+     "label": "Graphing Systems of Equations to Determine the Solution",
+     "bytes": 20595
+    },
+    {
+     "path": "7.03a - Graphing Systems of Equations/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/7.03a - Graphing Systems of Equations/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Graph the system of equations and write the solution to the system.",
+     "bytes": 21104
+    },
+    {
+     "path": "7.03a - Graphing Systems of Equations/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/7.03a - Graphing Systems of Equations/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Graph the system of equations and write the solution to the system.",
+     "bytes": 21156
+    },
+    {
+     "path": "7.03a - Graphing Systems of Equations/Examples/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/7.03a - Graphing Systems of Equations/Examples/03 - Moment 3 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Graph the system of equations and write the solution to the system.",
+     "bytes": 20909
+    },
+    {
+     "path": "7.03a - Graphing Systems of Equations/Examples/04 - Moment 4 - Example 4.pdf",
+     "thumb": "thumbs/7.03a - Graphing Systems of Equations/Examples/04 - Moment 4 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Graph the system of equations and write the solution to the system.",
+     "bytes": 20907
+    }
+   ]
+  },
+  {
+   "page": "7-03b-graphing-systems-in-real-world-problems.html",
+   "heading": "7.03b",
+   "title": "Graphing Systems in Real-World Problems",
+   "folder": "7.03b - Graphing Systems in Real-World",
+   "combined": {
+    "path": "7.03b - Graphing Systems in Real-World/7.03b - all cards.pdf",
+    "bytes": 19702
+   },
+   "files": [
+    {
+     "path": "7.03b - Graphing Systems in Real-World/Learn/01 - Sign - Graphing Systems in Real-World Problems.pdf",
+     "thumb": "thumbs/7.03b - Graphing Systems in Real-World/Learn/01 - Sign - Graphing Systems in Real-World Problems.jpg",
+     "activity": "Learn",
+     "label": "Graphing Systems in Real-World Problems",
+     "bytes": 19702
+    }
+   ]
+  },
+  {
+   "page": "8-01a-constructing-a-scatter-plot-and-looking-at-patterns.html",
+   "heading": "8.01a",
+   "title": "Constructing a Scatter Plot and Looking at Patterns",
+   "folder": "8.01a - Constructing a Scatter Plot an",
+   "combined": {
+    "path": "8.01a - Constructing a Scatter Plot an/8.01a - all cards.pdf",
+    "bytes": 18505
+   },
+   "files": [
+    {
+     "path": "8.01a - Constructing a Scatter Plot an/Learn/01 - Sign - Constructing a Scatter Plot and Looking at Patterns.pdf",
+     "thumb": "thumbs/8.01a - Constructing a Scatter Plot an/Learn/01 - Sign - Constructing a Scatter Plot and Looking at Patterns.jpg",
+     "activity": "Learn",
+     "label": "Constructing a Scatter Plot and Looking at Patterns",
+     "bytes": 18505
+    }
+   ]
+  },
+  {
+   "page": "8-01b-informally-drawing-lines-of-fit-determining-association-strength.html",
+   "heading": "8.01b",
+   "title": "Informally Drawing Lines of Fit & Determining Association & Strength",
+   "folder": "8.01b - Informally Drawing Lines of Fi",
+   "combined": {
+    "path": "8.01b - Informally Drawing Lines of Fi/8.01b - all cards.pdf",
+    "bytes": 52547
+   },
+   "files": [
+    {
+     "path": "8.01b - Informally Drawing Lines of Fi/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/8.01b - Informally Drawing Lines of Fi/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 33466
+    },
+    {
+     "path": "8.01b - Informally Drawing Lines of Fi/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/8.01b - Informally Drawing Lines of Fi/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 35695
+    }
+   ]
+  },
+  {
+   "page": "8-01c-explore-using-line-of-fit-to-make-predictions.html",
+   "heading": "8.01c",
+   "title": "Explore Using Line of Fit to Make Predictions",
+   "folder": "8.01c - Explore Using Line of Fit to M",
+   "combined": {
+    "path": "8.01c - Explore Using Line of Fit to M/8.01c - all cards.pdf",
+    "bytes": 19281
+   },
+   "files": [
+    {
+     "path": "8.01c - Explore Using Line of Fit to M/Learn/01 - Sign - Explore Using Line of Fit to Make Predictions.pdf",
+     "thumb": "thumbs/8.01c - Explore Using Line of Fit to M/Learn/01 - Sign - Explore Using Line of Fit to Make Predictions.jpg",
+     "activity": "Learn",
+     "label": "Explore Using Line of Fit to Make Predictions",
+     "bytes": 19281
+    }
+   ]
+  },
+  {
+   "page": "8-02a-constructing-a-line-graph.html",
+   "heading": "8.02a",
+   "title": "Constructing a Line Graph",
+   "folder": "8.02a - Constructing a Line Graph",
+   "combined": {
+    "path": "8.02a - Constructing a Line Graph/8.02a - all cards.pdf",
+    "bytes": 64999
+   },
+   "files": [
+    {
+     "path": "8.02a - Constructing a Line Graph/Learn/01 - Sign - Constructing a Line Graph.pdf",
+     "thumb": "thumbs/8.02a - Constructing a Line Graph/Learn/01 - Sign - Constructing a Line Graph.jpg",
+     "activity": "Learn",
+     "label": "Constructing a Line Graph",
+     "bytes": 18368
+    },
+    {
+     "path": "8.02a - Constructing a Line Graph/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/8.02a - Constructing a Line Graph/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 37256
+    },
+    {
+     "path": "8.02a - Constructing a Line Graph/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/8.02a - Constructing a Line Graph/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 40462
+    }
+   ]
+  },
+  {
+   "page": "8-02b-describing-association-and-trends.html",
+   "heading": "8.02b",
+   "title": "Describing Association and Trends",
+   "folder": "8.02b - Describing Association and Tre",
+   "combined": {
+    "path": "8.02b - Describing Association and Tre/8.02b - all cards.pdf",
+    "bytes": 65586
+   },
+   "files": [
+    {
+     "path": "8.02b - Describing Association and Tre/Learn/01 - Sign - Describing Association and Trends.pdf",
+     "thumb": "thumbs/8.02b - Describing Association and Tre/Learn/01 - Sign - Describing Association and Trends.jpg",
+     "activity": "Learn",
+     "label": "Describing Association and Trends",
+     "bytes": 17660
+    },
+    {
+     "path": "8.02b - Describing Association and Tre/Learn/02 - Example 1 Monthly Average Temperature.pdf",
+     "thumb": "thumbs/8.02b - Describing Association and Tre/Learn/02 - Example 1 Monthly Average Temperature.jpg",
+     "activity": "Learn",
+     "label": "Example 1: Monthly Average Temperature",
+     "bytes": 39531
+    },
+    {
+     "path": "8.02b - Describing Association and Tre/Learn/03 - Example 2 Monthly Average Rainfall.pdf",
+     "thumb": "thumbs/8.02b - Describing Association and Tre/Learn/03 - Example 2 Monthly Average Rainfall.jpg",
+     "activity": "Learn",
+     "label": "Example 2: Monthly Average Rainfall",
+     "bytes": 42613
+    }
+   ]
+  },
+  {
+   "page": "8-02c-exploring-making-predictions.html",
+   "heading": "8.02c",
+   "title": "Exploring Making Predictions",
+   "folder": "8.02c - Exploring Making Predictions",
+   "combined": {
+    "path": "8.02c - Exploring Making Predictions/8.02c - all cards.pdf",
+    "bytes": 65679
+   },
+   "files": [
+    {
+     "path": "8.02c - Exploring Making Predictions/Learn/01 - Sign - Exploring Making Predictions.pdf",
+     "thumb": "thumbs/8.02c - Exploring Making Predictions/Learn/01 - Sign - Exploring Making Predictions.jpg",
+     "activity": "Learn",
+     "label": "Exploring Making Predictions",
+     "bytes": 18357
+    },
+    {
+     "path": "8.02c - Exploring Making Predictions/Learn/02 - Example 1 Monthly Average Temperature.pdf",
+     "thumb": "thumbs/8.02c - Exploring Making Predictions/Learn/02 - Example 1 Monthly Average Temperature.jpg",
+     "activity": "Learn",
+     "label": "Example 1: Monthly Average Temperature",
+     "bytes": 39798
+    },
+    {
+     "path": "8.02c - Exploring Making Predictions/Learn/03 - Example 2 Monthly Average Rainfall.pdf",
+     "thumb": "thumbs/8.02c - Exploring Making Predictions/Learn/03 - Example 2 Monthly Average Rainfall.jpg",
+     "activity": "Learn",
+     "label": "Example 2: Monthly Average Rainfall",
+     "bytes": 42875
+    }
+   ]
+  },
+  {
+   "page": "9-01a-sample-space.html",
+   "heading": "9.01a",
+   "title": "Sample Space",
+   "folder": "9.01a - Sample Space",
+   "combined": {
+    "path": "9.01a - Sample Space/9.01a - all cards.pdf",
+    "bytes": 30806
+   },
+   "files": [
+    {
+     "path": "9.01a - Sample Space/Warm-Up/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/9.01a - Sample Space/Warm-Up/01 - Moment 1 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Suppose you are flipping a coin. What is the sample space for flipping a coin?",
+     "bytes": 21621
+    },
+    {
+     "path": "9.01a - Sample Space/Warm-Up/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/9.01a - Sample Space/Warm-Up/02 - Moment 2 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "If you are rolling a six-sided dice, what would the sample space be?",
+     "bytes": 22224
+    },
+    {
+     "path": "9.01a - Sample Space/Warm-Up/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/9.01a - Sample Space/Warm-Up/03 - Moment 3 - Example 3.jpg",
+     "activity": "Warm-Up",
+     "label": "If you were drawing a marble from a bag that contains 3 green marbles, 4 red marbles, 2 blue marbles, and 5 yellow marbles, what is the sample space?",
+     "bytes": 22472
+    },
+    {
+     "path": "9.01a - Sample Space/Learn/01 - Sign - Sample Space.pdf",
+     "thumb": "thumbs/9.01a - Sample Space/Learn/01 - Sign - Sample Space.jpg",
+     "activity": "Learn",
+     "label": "Sample Space",
+     "bytes": 17135
+    },
+    {
+     "path": "9.01a - Sample Space/Examples/01 - Moment 1 - Example 2.pdf",
+     "thumb": "thumbs/9.01a - Sample Space/Examples/01 - Moment 1 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "You're rolling a standard 6-sided die two consecutive times. What is the sample space of this repeated experiment?",
+     "bytes": 22693
+    },
+    {
+     "path": "9.01a - Sample Space/Examples/02 - Moment 2 - Example 3.pdf",
+     "thumb": "thumbs/9.01a - Sample Space/Examples/02 - Moment 2 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "You draw a marble from a bag with 4 pink, 2 blue, and 1 yellow marble, then spin a spinner divided into four sections labeled A, B, C, and D.",
+     "bytes": 23233
+    }
+   ]
+  },
+  {
+   "page": "9-01b-theoretical-probability.html",
+   "heading": "9.01b",
+   "title": "Theoretical Probability",
+   "folder": "9.01b - Theoretical Probability",
+   "combined": {
+    "path": "9.01b - Theoretical Probability/9.01b - all cards.pdf",
+    "bytes": 29486
+   },
+   "files": [
+    {
+     "path": "9.01b - Theoretical Probability/Warm-Up/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/9.01b - Theoretical Probability/Warm-Up/01 - Moment 1 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Imagine you have a 12-sided die, and you want to find the probability of rolling a 4.",
+     "bytes": 21732
+    },
+    {
+     "path": "9.01b - Theoretical Probability/Warm-Up/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/9.01b - Theoretical Probability/Warm-Up/02 - Moment 2 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "Suppose you have a bag with 2 green marbles, 3 red marbles, and 5 blue marbles. What's the probability of drawing a red marble?",
+     "bytes": 23053
+    },
+    {
+     "path": "9.01b - Theoretical Probability/Warm-Up/03 - Moment 3 - Example 4.pdf",
+     "thumb": "thumbs/9.01b - Theoretical Probability/Warm-Up/03 - Moment 3 - Example 4.jpg",
+     "activity": "Warm-Up",
+     "label": "What is the probability of rolling a 2 or 7 on a 10-sided die?",
+     "bytes": 20528
+    },
+    {
+     "path": "9.01b - Theoretical Probability/Learn/01 - Sign - Theoretical Probability.pdf",
+     "thumb": "thumbs/9.01b - Theoretical Probability/Learn/01 - Sign - Theoretical Probability.jpg",
+     "activity": "Learn",
+     "label": "Theoretical Probability",
+     "bytes": 17662
+    },
+    {
+     "path": "9.01b - Theoretical Probability/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/9.01b - Theoretical Probability/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Suppose you are rolling a 6-sided die. You are going to roll the die twice in the repeated experiment.",
+     "bytes": 22020
+    },
+    {
+     "path": "9.01b - Theoretical Probability/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/9.01b - Theoretical Probability/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "A bag contains 5 yellow, 3 red, and 7 blue marbles.",
+     "bytes": 20887
+    }
+   ]
+  },
+  {
+   "page": "9-01c-likelihood.html",
+   "heading": "9.01c",
+   "title": "Likelihood",
+   "folder": "9.01c - Likelihood",
+   "combined": {
+    "path": "9.01c - Likelihood/9.01c - all cards.pdf",
+    "bytes": 65456
+   },
+   "files": [
+    {
+     "path": "9.01c - Likelihood/Warm-Up/01 - Example 1.pdf",
+     "thumb": "thumbs/9.01c - Likelihood/Warm-Up/01 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 1",
+     "bytes": 40170
+    },
+    {
+     "path": "9.01c - Likelihood/Warm-Up/02 - Moment 1 - Example 2.pdf",
+     "thumb": "thumbs/9.01c - Likelihood/Warm-Up/02 - Moment 1 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "What is the likelihood of drawing out a green marble?",
+     "bytes": 20872
+    },
+    {
+     "path": "9.01c - Likelihood/Learn/01 - Sign - Likelihood.pdf",
+     "thumb": "thumbs/9.01c - Likelihood/Learn/01 - Sign - Likelihood.jpg",
+     "activity": "Learn",
+     "label": "Likelihood",
+     "bytes": 17108
+    },
+    {
+     "path": "9.01c - Likelihood/Learn/02 - The Likelihood Scale.pdf",
+     "thumb": "thumbs/9.01c - Likelihood/Learn/02 - The Likelihood Scale.jpg",
+     "activity": "Learn",
+     "label": "The Likelihood Scale:",
+     "bytes": 30135
+    },
+    {
+     "path": "9.01c - Likelihood/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/9.01c - Likelihood/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Suppose you are rolling a 6-sided die. You are going to roll the die twice in the repeated experiment.",
+     "bytes": 22010
+    },
+    {
+     "path": "9.01c - Likelihood/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/9.01c - Likelihood/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "A bag contains 5 yellow, 3 red, and 7 blue marbles.",
+     "bytes": 21096
+    },
+    {
+     "path": "9.01c - Likelihood/Examples/03 - Moment 3 - Example 3.pdf",
+     "thumb": "thumbs/9.01c - Likelihood/Examples/03 - Moment 3 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Suppose you are conducting an experiment where you are going to roll an 8-sided die and then flip a coin.",
+     "bytes": 22036
+    },
+    {
+     "path": "9.01c - Likelihood/Examples/04 - Moment 4 - Example 4.pdf",
+     "thumb": "thumbs/9.01c - Likelihood/Examples/04 - Moment 4 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Suppose you are drawing a marble from a bag of marbles that contains only blue marbles.",
+     "bytes": 21131
+    }
+   ]
+  },
+  {
+   "page": "9-02a-predictions-in-simple-experiments.html",
+   "heading": "9.02a",
+   "title": "Predictions in Simple Experiments",
+   "folder": "9.02a - Predictions in Simple Experime",
+   "combined": {
+    "path": "9.02a - Predictions in Simple Experime/9.02a - all cards.pdf",
+    "bytes": 27469
+   },
+   "files": [
+    {
+     "path": "9.02a - Predictions in Simple Experime/Warm-Up/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/9.02a - Predictions in Simple Experime/Warm-Up/01 - Moment 1 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "What is the experimental probability of a 2 or 7 being rolled?",
+     "bytes": 21105
+    },
+    {
+     "path": "9.02a - Predictions in Simple Experime/Warm-Up/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/9.02a - Predictions in Simple Experime/Warm-Up/02 - Moment 2 - Example 2.jpg",
+     "activity": "Warm-Up",
+     "label": "What is the experimental probability of a red marble being drawn?",
+     "bytes": 21158
+    },
+    {
+     "path": "9.02a - Predictions in Simple Experime/Learn/01 - Sign - Predictions in Simple Experiments.pdf",
+     "thumb": "thumbs/9.02a - Predictions in Simple Experime/Learn/01 - Sign - Predictions in Simple Experiments.jpg",
+     "activity": "Learn",
+     "label": "Predictions in Simple Experiments",
+     "bytes": 19137
+    },
+    {
+     "path": "9.02a - Predictions in Simple Experime/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/9.02a - Predictions in Simple Experime/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Suppose you want to simulate an experiment where you roll a 10-sided die.",
+     "bytes": 21056
+    },
+    {
+     "path": "9.02a - Predictions in Simple Experime/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/9.02a - Predictions in Simple Experime/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "You conduct an experiment where you are going to draw a card from a standard deck of 52 cards.",
+     "bytes": 22240
+    }
+   ]
+  },
+  {
+   "page": "9-02b-predictions-and-experimental-probability-in-repeated-experiments.html",
+   "heading": "9.02b",
+   "title": "Predictions and Experimental Probability in Repeated Experiments",
+   "folder": "9.02b - Predictions and Experimental P",
+   "combined": {
+    "path": "9.02b - Predictions and Experimental P/9.02b - all cards.pdf",
+    "bytes": 22059
+   },
+   "files": [
+    {
+     "path": "9.02b - Predictions and Experimental P/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/9.02b - Predictions and Experimental P/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "First, you roll a 6-sided die hoping for an even number. Then, from a bag with 5 red and 5 green marbles, you draw one marble, looking for a red one.",
+     "bytes": 22059
+    }
+   ]
+  },
+  {
+   "page": "10-01a-complementary-angles.html",
+   "heading": "10.01a",
+   "title": "Complementary Angles",
+   "folder": "10.01a - Complementary Angles",
+   "combined": {
+    "path": "10.01a - Complementary Angles/10.01a - all cards.pdf",
+    "bytes": 78859
+   },
+   "files": [
+    {
+     "path": "10.01a - Complementary Angles/Warm-Up/01 - Acute Angles.pdf",
+     "thumb": "thumbs/10.01a - Complementary Angles/Warm-Up/01 - Acute Angles.jpg",
+     "activity": "Warm-Up",
+     "label": "Acute Angles",
+     "bytes": 24452
+    },
+    {
+     "path": "10.01a - Complementary Angles/Warm-Up/02 - Obtuse Angles.pdf",
+     "thumb": "thumbs/10.01a - Complementary Angles/Warm-Up/02 - Obtuse Angles.jpg",
+     "activity": "Warm-Up",
+     "label": "Obtuse Angles",
+     "bytes": 24313
+    },
+    {
+     "path": "10.01a - Complementary Angles/Warm-Up/03 - Right Angles.pdf",
+     "thumb": "thumbs/10.01a - Complementary Angles/Warm-Up/03 - Right Angles.jpg",
+     "activity": "Warm-Up",
+     "label": "Right Angles",
+     "bytes": 19873
+    },
+    {
+     "path": "10.01a - Complementary Angles/Warm-Up/04 - Straight Angles.pdf",
+     "thumb": "thumbs/10.01a - Complementary Angles/Warm-Up/04 - Straight Angles.jpg",
+     "activity": "Warm-Up",
+     "label": "Straight Angles",
+     "bytes": 18880
+    },
+    {
+     "path": "10.01a - Complementary Angles/Learn/01 - Sign - Complementary Angles.pdf",
+     "thumb": "thumbs/10.01a - Complementary Angles/Learn/01 - Sign - Complementary Angles.jpg",
+     "activity": "Learn",
+     "label": "Complementary Angles",
+     "bytes": 18012
+    },
+    {
+     "path": "10.01a - Complementary Angles/Learn/02 - How Are Complementary Angles Related.pdf",
+     "thumb": "thumbs/10.01a - Complementary Angles/Learn/02 - How Are Complementary Angles Related.jpg",
+     "activity": "Learn",
+     "label": "How Are Complementary Angles Related?",
+     "bytes": 34436
+    },
+    {
+     "path": "10.01a - Complementary Angles/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/10.01a - Complementary Angles/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 24909
+    },
+    {
+     "path": "10.01a - Complementary Angles/Examples/02 - Example 3.pdf",
+     "thumb": "thumbs/10.01a - Complementary Angles/Examples/02 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 27067
+    }
+   ]
+  },
+  {
+   "page": "10-01b-supplementary-angles.html",
+   "heading": "10.01b",
+   "title": "Supplementary Angles",
+   "folder": "10.01b - Supplementary Angles",
+   "combined": {
+    "path": "10.01b - Supplementary Angles/10.01b - all cards.pdf",
+    "bytes": 52915
+   },
+   "files": [
+    {
+     "path": "10.01b - Supplementary Angles/Learn/01 - Sign - Supplementary Angles.pdf",
+     "thumb": "thumbs/10.01b - Supplementary Angles/Learn/01 - Sign - Supplementary Angles.jpg",
+     "activity": "Learn",
+     "label": "Supplementary Angles",
+     "bytes": 18301
+    },
+    {
+     "path": "10.01b - Supplementary Angles/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/10.01b - Supplementary Angles/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 30876
+    },
+    {
+     "path": "10.01b - Supplementary Angles/Examples/02 - Example 3.pdf",
+     "thumb": "thumbs/10.01b - Supplementary Angles/Examples/02 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 35578
+    }
+   ]
+  },
+  {
+   "page": "10-01c-vertical-angles.html",
+   "heading": "10.01c",
+   "title": "Vertical Angles",
+   "folder": "10.01c - Vertical Angles",
+   "combined": {
+    "path": "10.01c - Vertical Angles/10.01c - all cards.pdf",
+    "bytes": 41328
+   },
+   "files": [
+    {
+     "path": "10.01c - Vertical Angles/Learn/01 - Sign - Vertical Angles.pdf",
+     "thumb": "thumbs/10.01c - Vertical Angles/Learn/01 - Sign - Vertical Angles.jpg",
+     "activity": "Learn",
+     "label": "Vertical Angles",
+     "bytes": 17014
+    },
+    {
+     "path": "10.01c - Vertical Angles/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/10.01c - Vertical Angles/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 38514
+    }
+   ]
+  },
+  {
+   "page": "10-01d-adjacent-angles.html",
+   "heading": "10.01d",
+   "title": "Adjacent Angles",
+   "folder": "10.01d - Adjacent Angles",
+   "combined": {
+    "path": "10.01d - Adjacent Angles/10.01d - all cards.pdf",
+    "bytes": 101206
+   },
+   "files": [
+    {
+     "path": "10.01d - Adjacent Angles/Learn/01 - Sign - Adjacent Angles.pdf",
+     "thumb": "thumbs/10.01d - Adjacent Angles/Learn/01 - Sign - Adjacent Angles.jpg",
+     "activity": "Learn",
+     "label": "Adjacent Angles",
+     "bytes": 16754
+    },
+    {
+     "path": "10.01d - Adjacent Angles/Learn/02 - How the Measures of Adjacent Angles Are Related.pdf",
+     "thumb": "thumbs/10.01d - Adjacent Angles/Learn/02 - How the Measures of Adjacent Angles Are Related.jpg",
+     "activity": "Learn",
+     "label": "How the Measures of Adjacent Angles Are Related",
+     "bytes": 41822
+    },
+    {
+     "path": "10.01d - Adjacent Angles/Learn/03 - How the Measures of Adjacent Angles Are Related.pdf",
+     "thumb": "thumbs/10.01d - Adjacent Angles/Learn/03 - How the Measures of Adjacent Angles Are Related.jpg",
+     "activity": "Learn",
+     "label": "How the Measures of Adjacent Angles Are Related",
+     "bytes": 37675
+    },
+    {
+     "path": "10.01d - Adjacent Angles/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/10.01d - Adjacent Angles/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 34815
+    },
+    {
+     "path": "10.01d - Adjacent Angles/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/10.01d - Adjacent Angles/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 35683
+    }
+   ]
+  },
+  {
+   "page": "10-02a-triangle-sum-theorem.html",
+   "heading": "10.02a",
+   "title": "Triangle Sum Theorem",
+   "folder": "10.02a - Triangle Sum Theorem",
+   "combined": {
+    "path": "10.02a - Triangle Sum Theorem/10.02a - all cards.pdf",
+    "bytes": 55630
+   },
+   "files": [
+    {
+     "path": "10.02a - Triangle Sum Theorem/Learn/01 - Sign - Triangle Sum Theorem.pdf",
+     "thumb": "thumbs/10.02a - Triangle Sum Theorem/Learn/01 - Sign - Triangle Sum Theorem.jpg",
+     "activity": "Learn",
+     "label": "Triangle Sum Theorem",
+     "bytes": 18151
+    },
+    {
+     "path": "10.02a - Triangle Sum Theorem/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/10.02a - Triangle Sum Theorem/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 33997
+    },
+    {
+     "path": "10.02a - Triangle Sum Theorem/Examples/02 - Example 3.pdf",
+     "thumb": "thumbs/10.02a - Triangle Sum Theorem/Examples/02 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 35427
+    }
+   ]
+  },
+  {
+   "page": "10-02b-exterior-angle-theorem.html",
+   "heading": "10.02b",
+   "title": "Exterior Angle Theorem",
+   "folder": "10.02b - Exterior Angle Theorem",
+   "combined": {
+    "path": "10.02b - Exterior Angle Theorem/10.02b - all cards.pdf",
+    "bytes": 131708
+   },
+   "files": [
+    {
+     "path": "10.02b - Exterior Angle Theorem/Warm-Up/01 - What is an Interior Angle.pdf",
+     "thumb": "thumbs/10.02b - Exterior Angle Theorem/Warm-Up/01 - What is an Interior Angle.jpg",
+     "activity": "Warm-Up",
+     "label": "What is an Interior Angle?",
+     "bytes": 33299
+    },
+    {
+     "path": "10.02b - Exterior Angle Theorem/Warm-Up/02 - What is an Exterior Angle.pdf",
+     "thumb": "thumbs/10.02b - Exterior Angle Theorem/Warm-Up/02 - What is an Exterior Angle.jpg",
+     "activity": "Warm-Up",
+     "label": "What is an Exterior Angle?",
+     "bytes": 35876
+    },
+    {
+     "path": "10.02b - Exterior Angle Theorem/Learn/01 - Sign - Exterior Angle Theorem.pdf",
+     "thumb": "thumbs/10.02b - Exterior Angle Theorem/Learn/01 - Sign - Exterior Angle Theorem.jpg",
+     "activity": "Learn",
+     "label": "Exterior Angle Theorem",
+     "bytes": 18090
+    },
+    {
+     "path": "10.02b - Exterior Angle Theorem/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/10.02b - Exterior Angle Theorem/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 34639
+    },
+    {
+     "path": "10.02b - Exterior Angle Theorem/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/10.02b - Exterior Angle Theorem/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 33593
+    },
+    {
+     "path": "10.02b - Exterior Angle Theorem/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/10.02b - Exterior Angle Theorem/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 39248
+    },
+    {
+     "path": "10.02b - Exterior Angle Theorem/Examples/04 - Example 4.pdf",
+     "thumb": "thumbs/10.02b - Exterior Angle Theorem/Examples/04 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Example 4",
+     "bytes": 36487
+    }
+   ]
+  },
+  {
+   "page": "10-03a-formula-for-the-sum-of-interior-angles-in-a-polygon.html",
+   "heading": "10.03a",
+   "title": "Formula for the Sum of Interior Angles in a Polygon",
+   "folder": "10.03a - Formula for the Sum of Interio",
+   "combined": {
+    "path": "10.03a - Formula for the Sum of Interio/10.03a - all cards.pdf",
+    "bytes": 92576
+   },
+   "files": [
+    {
+     "path": "10.03a - Formula for the Sum of Interio/Learn/01 - Sign - Formula for the Sum of Interior Angles in a Polygon.pdf",
+     "thumb": "thumbs/10.03a - Formula for the Sum of Interio/Learn/01 - Sign - Formula for the Sum of Interior Angles in a Polygon.jpg",
+     "activity": "Learn",
+     "label": "Formula for the Sum of Interior Angles in a Polygon",
+     "bytes": 19945
+    },
+    {
+     "path": "10.03a - Formula for the Sum of Interio/Learn/02 - Why the Formula Works.pdf",
+     "thumb": "thumbs/10.03a - Formula for the Sum of Interio/Learn/02 - Why the Formula Works.jpg",
+     "activity": "Learn",
+     "label": "Why the Formula Works:",
+     "bytes": 41793
+    },
+    {
+     "path": "10.03a - Formula for the Sum of Interio/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/10.03a - Formula for the Sum of Interio/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "What is the sum of the interior angles of a pentagon?",
+     "bytes": 20140
+    },
+    {
+     "path": "10.03a - Formula for the Sum of Interio/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/10.03a - Formula for the Sum of Interio/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 41268
+    },
+    {
+     "path": "10.03a - Formula for the Sum of Interio/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/10.03a - Formula for the Sum of Interio/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 38495
+    }
+   ]
+  },
+  {
+   "page": "10-03b-formula-for-an-interior-angle-in-a-regular-polygon.html",
+   "heading": "10.03b",
+   "title": "Formula for an Interior Angle in a Regular Polygon",
+   "folder": "10.03b - Formula for an Interior Angle",
+   "combined": {
+    "path": "10.03b - Formula for an Interior Angle/10.03b - all cards.pdf",
+    "bytes": 62971
+   },
+   "files": [
+    {
+     "path": "10.03b - Formula for an Interior Angle/Warm-Up/01 - Example 1.pdf",
+     "thumb": "thumbs/10.03b - Formula for an Interior Angle/Warm-Up/01 - Example 1.jpg",
+     "activity": "Warm-Up",
+     "label": "Example 1",
+     "bytes": 34254
+    },
+    {
+     "path": "10.03b - Formula for an Interior Angle/Warm-Up/02 - Moment 1 - Example 3.pdf",
+     "thumb": "thumbs/10.03b - Formula for an Interior Angle/Warm-Up/02 - Moment 1 - Example 3.jpg",
+     "activity": "Warm-Up",
+     "label": "What is the measure of the interior angles in a regular triangle?",
+     "bytes": 19768
+    },
+    {
+     "path": "10.03b - Formula for an Interior Angle/Learn/01 - Sign - Formula for an Interior Angle in a Regular Polygon.pdf",
+     "thumb": "thumbs/10.03b - Formula for an Interior Angle/Learn/01 - Sign - Formula for an Interior Angle in a Regular Polygon.jpg",
+     "activity": "Learn",
+     "label": "Formula for an Interior Angle in a Regular Polygon",
+     "bytes": 18844
+    },
+    {
+     "path": "10.03b - Formula for an Interior Angle/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/10.03b - Formula for an Interior Angle/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "A polygon ABCDE is a regular pentagon. Find the measure of one of the interior angles.",
+     "bytes": 21031
+    },
+    {
+     "path": "10.03b - Formula for an Interior Angle/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/10.03b - Formula for an Interior Angle/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 35685
+    },
+    {
+     "path": "10.03b - Formula for an Interior Angle/Examples/03 - Moment 2 - Example 3.pdf",
+     "thumb": "thumbs/10.03b - Formula for an Interior Angle/Examples/03 - Moment 2 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Find how many sides the polygon has.",
+     "bytes": 19809
+    }
+   ]
+  },
+  {
+   "page": "11-01a-determining-if-a-triangle-is-a-right-triangle.html",
+   "heading": "11.01a",
+   "title": "Determining if a Triangle is a Right Triangle",
+   "folder": "11.01a - Determining if a Triangle is a",
+   "combined": {
+    "path": "11.01a - Determining if a Triangle is a/11.01a - all cards.pdf",
+    "bytes": 46625
+   },
+   "files": [
+    {
+     "path": "11.01a - Determining if a Triangle is a/Warm-Up/01 - Parts of a Right Triangle.pdf",
+     "thumb": "thumbs/11.01a - Determining if a Triangle is a/Warm-Up/01 - Parts of a Right Triangle.jpg",
+     "activity": "Warm-Up",
+     "label": "Parts of a Right Triangle",
+     "bytes": 27021
+    },
+    {
+     "path": "11.01a - Determining if a Triangle is a/Learn/01 - Sign - Determining if a Triangle is a Right Triangle.pdf",
+     "thumb": "thumbs/11.01a - Determining if a Triangle is a/Learn/01 - Sign - Determining if a Triangle is a Right Triangle.jpg",
+     "activity": "Learn",
+     "label": "Determining if a Triangle is a Right Triangle",
+     "bytes": 18131
+    },
+    {
+     "path": "11.01a - Determining if a Triangle is a/Learn/02 - The Pythagorean Theorem.pdf",
+     "thumb": "thumbs/11.01a - Determining if a Triangle is a/Learn/02 - The Pythagorean Theorem.jpg",
+     "activity": "Learn",
+     "label": "The Pythagorean Theorem",
+     "bytes": 33971
+    }
+   ]
+  },
+  {
+   "page": "11-01b-finding-a-missing-side-of-a-right-triangle.html",
+   "heading": "11.01b",
+   "title": "Finding a Missing Side of a Right Triangle",
+   "folder": "11.01b - Finding a Missing Side of a Ri",
+   "combined": {
+    "path": "11.01b - Finding a Missing Side of a Ri/11.01b - all cards.pdf",
+    "bytes": 52476
+   },
+   "files": [
+    {
+     "path": "11.01b - Finding a Missing Side of a Ri/Learn/01 - Sign - Finding a Missing Side of a Right Triangle.pdf",
+     "thumb": "thumbs/11.01b - Finding a Missing Side of a Ri/Learn/01 - Sign - Finding a Missing Side of a Right Triangle.jpg",
+     "activity": "Learn",
+     "label": "Finding a Missing Side of a Right Triangle",
+     "bytes": 18256
+    },
+    {
+     "path": "11.01b - Finding a Missing Side of a Ri/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/11.01b - Finding a Missing Side of a Ri/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 28601
+    },
+    {
+     "path": "11.01b - Finding a Missing Side of a Ri/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/11.01b - Finding a Missing Side of a Ri/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 34091
+    },
+    {
+     "path": "11.01b - Finding a Missing Side of a Ri/Examples/03 - Example 2.pdf",
+     "thumb": "thumbs/11.01b - Finding a Missing Side of a Ri/Examples/03 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 19356
+    }
+   ]
+  },
+  {
+   "page": "11-01c-distance-between-two-points.html",
+   "heading": "11.01c",
+   "title": "Distance Between Two Points",
+   "folder": "11.01c - Distance Between Two Points",
+   "combined": {
+    "path": "11.01c - Distance Between Two Points/11.01c - all cards.pdf",
+    "bytes": 69584
+   },
+   "files": [
+    {
+     "path": "11.01c - Distance Between Two Points/Learn/01 - Sign - Distance Between Two Points.pdf",
+     "thumb": "thumbs/11.01c - Distance Between Two Points/Learn/01 - Sign - Distance Between Two Points.jpg",
+     "activity": "Learn",
+     "label": "Distance Between Two Points",
+     "bytes": 18492
+    },
+    {
+     "path": "11.01c - Distance Between Two Points/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/11.01c - Distance Between Two Points/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 65296
+    }
+   ]
+  },
+  {
+   "page": "11-01d-applying-the-pythagorean-theorem-to-real-world.html",
+   "heading": "11.01d",
+   "title": "Applying the Pythagorean Theorem to Real-World",
+   "folder": "11.01d - Applying the Pythagorean Theor",
+   "combined": {
+    "path": "11.01d - Applying the Pythagorean Theor/11.01d - all cards.pdf",
+    "bytes": 421114
+   },
+   "files": [
+    {
+     "path": "11.01d - Applying the Pythagorean Theor/Learn/01 - Sign - Applying the Pythagorean Theorem to Real-World.pdf",
+     "thumb": "thumbs/11.01d - Applying the Pythagorean Theor/Learn/01 - Sign - Applying the Pythagorean Theorem to Real-World.jpg",
+     "activity": "Learn",
+     "label": "Applying the Pythagorean Theorem to Real-World",
+     "bytes": 18710
+    },
+    {
+     "path": "11.01d - Applying the Pythagorean Theor/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/11.01d - Applying the Pythagorean Theor/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 275417
+    },
+    {
+     "path": "11.01d - Applying the Pythagorean Theor/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/11.01d - Applying the Pythagorean Theor/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 93364
+    },
+    {
+     "path": "11.01d - Applying the Pythagorean Theor/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/11.01d - Applying the Pythagorean Theor/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 81646
+    }
+   ]
+  },
+  {
+   "page": "11-02a-determining-if-a-triangle-exists.html",
+   "heading": "11.02a",
+   "title": "Determining if a Triangle Exists",
+   "folder": "11.02a - Determining if a Triangle Exis",
+   "combined": {
+    "path": "11.02a - Determining if a Triangle Exis/11.02a - all cards.pdf",
+    "bytes": 23585
+   },
+   "files": [
+    {
+     "path": "11.02a - Determining if a Triangle Exis/Learn/01 - Sign - Determining if a Triangle Exists.pdf",
+     "thumb": "thumbs/11.02a - Determining if a Triangle Exis/Learn/01 - Sign - Determining if a Triangle Exists.jpg",
+     "activity": "Learn",
+     "label": "Determining if a Triangle Exists",
+     "bytes": 18598
+    },
+    {
+     "path": "11.02a - Determining if a Triangle Exis/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/11.02a - Determining if a Triangle Exis/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Given side lengths 5, 7, and 10, can these sides form a triangle?",
+     "bytes": 20027
+    },
+    {
+     "path": "11.02a - Determining if a Triangle Exis/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/11.02a - Determining if a Triangle Exis/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Given side lengths 3, 4, and 8, can these sides form a triangle?",
+     "bytes": 20040
+    }
+   ]
+  },
+  {
+   "page": "11-02b-possible-side-lengths-of-a-triangle.html",
+   "heading": "11.02b",
+   "title": "Possible Side Lengths of a Triangle",
+   "folder": "11.02b - Possible Side Lengths of a Tri",
+   "combined": {
+    "path": "11.02b - Possible Side Lengths of a Tri/11.02b - all cards.pdf",
+    "bytes": 22785
+   },
+   "files": [
+    {
+     "path": "11.02b - Possible Side Lengths of a Tri/Learn/01 - Sign - Possible Side Lengths of a Triangle.pdf",
+     "thumb": "thumbs/11.02b - Possible Side Lengths of a Tri/Learn/01 - Sign - Possible Side Lengths of a Triangle.jpg",
+     "activity": "Learn",
+     "label": "Possible Side Lengths of a Triangle",
+     "bytes": 18223
+    },
+    {
+     "path": "11.02b - Possible Side Lengths of a Tri/Examples/01 - Moment 1 - Example 1.pdf",
+     "thumb": "thumbs/11.02b - Possible Side Lengths of a Tri/Examples/01 - Moment 1 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Given the side lengths 4 and 11, what could the third side be?",
+     "bytes": 19742
+    },
+    {
+     "path": "11.02b - Possible Side Lengths of a Tri/Examples/02 - Moment 2 - Example 2.pdf",
+     "thumb": "thumbs/11.02b - Possible Side Lengths of a Tri/Examples/02 - Moment 2 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Given side lengths 7 and 22, which of the following could be the third side?",
+     "bytes": 20022
+    }
+   ]
+  },
+  {
+   "page": "12-01a-translations-and-reflections.html",
+   "heading": "12.01a",
+   "title": "Translations and Reflections",
+   "folder": "12.01a - Translations and Reflections",
+   "combined": {
+    "path": "12.01a - Translations and Reflections/12.01a - all cards.pdf",
+    "bytes": 90516
+   },
+   "files": [
+    {
+     "path": "12.01a - Translations and Reflections/Learn/01 - Sign - Translations and Reflections.pdf",
+     "thumb": "thumbs/12.01a - Translations and Reflections/Learn/01 - Sign - Translations and Reflections.jpg",
+     "activity": "Learn",
+     "label": "Translations and Reflections",
+     "bytes": 17796
+    },
+    {
+     "path": "12.01a - Translations and Reflections/Learn/02 - Examples.pdf",
+     "thumb": "thumbs/12.01a - Translations and Reflections/Learn/02 - Examples.jpg",
+     "activity": "Learn",
+     "label": "Examples:",
+     "bytes": 27896
+    },
+    {
+     "path": "12.01a - Translations and Reflections/Learn/03 - Examples.pdf",
+     "thumb": "thumbs/12.01a - Translations and Reflections/Learn/03 - Examples.jpg",
+     "activity": "Learn",
+     "label": "Examples:",
+     "bytes": 29964
+    },
+    {
+     "path": "12.01a - Translations and Reflections/Learn/04 - Reflections.pdf",
+     "thumb": "thumbs/12.01a - Translations and Reflections/Learn/04 - Reflections.jpg",
+     "activity": "Learn",
+     "label": "Reflections",
+     "bytes": 32527
+    },
+    {
+     "path": "12.01a - Translations and Reflections/Learn/05 - Reflections.pdf",
+     "thumb": "thumbs/12.01a - Translations and Reflections/Learn/05 - Reflections.jpg",
+     "activity": "Learn",
+     "label": "Reflections",
+     "bytes": 30472
+    },
+    {
+     "path": "12.01a - Translations and Reflections/Learn/06 - Reflections.pdf",
+     "thumb": "thumbs/12.01a - Translations and Reflections/Learn/06 - Reflections.jpg",
+     "activity": "Learn",
+     "label": "Reflections",
+     "bytes": 35889
+    }
+   ]
+  },
+  {
+   "page": "12-01b-rotations.html",
+   "heading": "12.01b",
+   "title": "Rotations",
+   "folder": "12.01b - Rotations",
+   "combined": {
+    "path": "12.01b - Rotations/12.01b - all cards.pdf",
+    "bytes": 53476
+   },
+   "files": [
+    {
+     "path": "12.01b - Rotations/Learn/01 - Sign - Rotations.pdf",
+     "thumb": "thumbs/12.01b - Rotations/Learn/01 - Sign - Rotations.jpg",
+     "activity": "Learn",
+     "label": "Rotations",
+     "bytes": 16905
+    },
+    {
+     "path": "12.01b - Rotations/Learn/02 - Examples of Rotations.pdf",
+     "thumb": "thumbs/12.01b - Rotations/Learn/02 - Examples of Rotations.jpg",
+     "activity": "Learn",
+     "label": "Examples of Rotations",
+     "bytes": 31832
+    },
+    {
+     "path": "12.01b - Rotations/Learn/03 - Examples of Rotations.pdf",
+     "thumb": "thumbs/12.01b - Rotations/Learn/03 - Examples of Rotations.jpg",
+     "activity": "Learn",
+     "label": "Examples of Rotations",
+     "bytes": 39220
+    }
+   ]
+  },
+  {
+   "page": "12-01c-dilations.html",
+   "heading": "12.01c",
+   "title": "Dilations",
+   "folder": "12.01c - Dilations",
+   "combined": {
+    "path": "12.01c - Dilations/12.01c - all cards.pdf",
+    "bytes": 58267
+   },
+   "files": [
+    {
+     "path": "12.01c - Dilations/Learn/01 - Sign - Dilations.pdf",
+     "thumb": "thumbs/12.01c - Dilations/Learn/01 - Sign - Dilations.jpg",
+     "activity": "Learn",
+     "label": "Dilations",
+     "bytes": 17510
+    },
+    {
+     "path": "12.01c - Dilations/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/12.01c - Dilations/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 25989
+    },
+    {
+     "path": "12.01c - Dilations/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/12.01c - Dilations/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 22909
+    },
+    {
+     "path": "12.01c - Dilations/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/12.01c - Dilations/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 28551
+    },
+    {
+     "path": "12.01c - Dilations/Examples/04 - Example 4.pdf",
+     "thumb": "thumbs/12.01c - Dilations/Examples/04 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Example 4",
+     "bytes": 29184
+    }
+   ]
+  },
+  {
+   "page": "12-01d-preserving-congruence-versus-similarity.html",
+   "heading": "12.01d",
+   "title": "Preserving Congruence versus Similarity",
+   "folder": "12.01d - Preserving Congruence versus S",
+   "combined": {
+    "path": "12.01d - Preserving Congruence versus S/12.01d - all cards.pdf",
+    "bytes": 19466
+   },
+   "files": [
+    {
+     "path": "12.01d - Preserving Congruence versus S/Learn/01 - Sign - Preserving Congruence versus Similarity.pdf",
+     "thumb": "thumbs/12.01d - Preserving Congruence versus S/Learn/01 - Sign - Preserving Congruence versus Similarity.jpg",
+     "activity": "Learn",
+     "label": "Preserving Congruence versus Similarity",
+     "bytes": 19466
+    }
+   ]
+  },
+  {
+   "page": "12-02a-translations-and-reflections-in-the-coordinate-plane.html",
+   "heading": "12.02a",
+   "title": "Translations and Reflections in the Coordinate Plane",
+   "folder": "12.02a - Translations and Reflections i",
+   "combined": {
+    "path": "12.02a - Translations and Reflections i/12.02a - all cards.pdf",
+    "bytes": 790720
+   },
+   "files": [
+    {
+     "path": "12.02a - Translations and Reflections i/Learn/01 - Sign - Translations and Reflections in the Coordinate Plane.pdf",
+     "thumb": "thumbs/12.02a - Translations and Reflections i/Learn/01 - Sign - Translations and Reflections in the Coordinate Plane.jpg",
+     "activity": "Learn",
+     "label": "Translations and Reflections in the Coordinate Plane",
+     "bytes": 18385
+    },
+    {
+     "path": "12.02a - Translations and Reflections i/Learn/02 - Identifying Translations and Reflections.pdf",
+     "thumb": "thumbs/12.02a - Translations and Reflections i/Learn/02 - Identifying Translations and Reflections.jpg",
+     "activity": "Learn",
+     "label": "Identifying Translations and Reflections",
+     "bytes": 96170
+    },
+    {
+     "path": "12.02a - Translations and Reflections i/Learn/03 - Identifying Translations and Reflections.pdf",
+     "thumb": "thumbs/12.02a - Translations and Reflections i/Learn/03 - Identifying Translations and Reflections.jpg",
+     "activity": "Learn",
+     "label": "Identifying Translations and Reflections",
+     "bytes": 111618
+    },
+    {
+     "path": "12.02a - Translations and Reflections i/Learn/04 - Identifying Translations and Reflections.pdf",
+     "thumb": "thumbs/12.02a - Translations and Reflections i/Learn/04 - Identifying Translations and Reflections.jpg",
+     "activity": "Learn",
+     "label": "Identifying Translations and Reflections",
+     "bytes": 84960
+    },
+    {
+     "path": "12.02a - Translations and Reflections i/Learn/05 - Identifying Translations and Reflections.pdf",
+     "thumb": "thumbs/12.02a - Translations and Reflections i/Learn/05 - Identifying Translations and Reflections.jpg",
+     "activity": "Learn",
+     "label": "Identifying Translations and Reflections",
+     "bytes": 92066
+    },
+    {
+     "path": "12.02a - Translations and Reflections i/Learn/06 - Identifying Translations and Reflections.pdf",
+     "thumb": "thumbs/12.02a - Translations and Reflections i/Learn/06 - Identifying Translations and Reflections.jpg",
+     "activity": "Learn",
+     "label": "Identifying Translations and Reflections",
+     "bytes": 95094
+    },
+    {
+     "path": "12.02a - Translations and Reflections i/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/12.02a - Translations and Reflections i/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 59951
+    },
+    {
+     "path": "12.02a - Translations and Reflections i/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/12.02a - Translations and Reflections i/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 53391
+    },
+    {
+     "path": "12.02a - Translations and Reflections i/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/12.02a - Translations and Reflections i/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 118232
+    },
+    {
+     "path": "12.02a - Translations and Reflections i/Examples/04 - Example 3.pdf",
+     "thumb": "thumbs/12.02a - Translations and Reflections i/Examples/04 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 75555
+    },
+    {
+     "path": "12.02a - Translations and Reflections i/Examples/05 - Example 4.pdf",
+     "thumb": "thumbs/12.02a - Translations and Reflections i/Examples/05 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Example 4",
+     "bytes": 87258
+    },
+    {
+     "path": "12.02a - Translations and Reflections i/Examples/06 - Example 4.pdf",
+     "thumb": "thumbs/12.02a - Translations and Reflections i/Examples/06 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Example 4",
+     "bytes": 87099
+    }
+   ]
+  },
+  {
+   "page": "12-02b-rotations-in-the-coordinate-plane.html",
+   "heading": "12.02b",
+   "title": "Rotations in the Coordinate Plane",
+   "folder": "12.02b - Rotations in the Coordinate Pl",
+   "combined": {
+    "path": "12.02b - Rotations in the Coordinate Pl/12.02b - all cards.pdf",
+    "bytes": 608454
+   },
+   "files": [
+    {
+     "path": "12.02b - Rotations in the Coordinate Pl/Learn/01 - Sign - Rotations in the Coordinate Plane.pdf",
+     "thumb": "thumbs/12.02b - Rotations in the Coordinate Pl/Learn/01 - Sign - Rotations in the Coordinate Plane.jpg",
+     "activity": "Learn",
+     "label": "Rotations in the Coordinate Plane",
+     "bytes": 17521
+    },
+    {
+     "path": "12.02b - Rotations in the Coordinate Pl/Learn/02 - Identifying Rotations 90, 180, and 270 Around the Origin.pdf",
+     "thumb": "thumbs/12.02b - Rotations in the Coordinate Pl/Learn/02 - Identifying Rotations 90, 180, and 270 Around the Origin.jpg",
+     "activity": "Learn",
+     "label": "Identifying Rotations: 90°, 180°, and 270° Around the Origin",
+     "bytes": 89927
+    },
+    {
+     "path": "12.02b - Rotations in the Coordinate Pl/Learn/03 - Identifying Rotations 90, 180, and 270 Around the Origin.pdf",
+     "thumb": "thumbs/12.02b - Rotations in the Coordinate Pl/Learn/03 - Identifying Rotations 90, 180, and 270 Around the Origin.jpg",
+     "activity": "Learn",
+     "label": "Identifying Rotations: 90°, 180°, and 270° Around the Origin",
+     "bytes": 112457
+    },
+    {
+     "path": "12.02b - Rotations in the Coordinate Pl/Learn/04 - Identifying Rotations 90, 180, and 270 Around the Origin.pdf",
+     "thumb": "thumbs/12.02b - Rotations in the Coordinate Pl/Learn/04 - Identifying Rotations 90, 180, and 270 Around the Origin.jpg",
+     "activity": "Learn",
+     "label": "Identifying Rotations: 90°, 180°, and 270° Around the Origin",
+     "bytes": 83445
+    },
+    {
+     "path": "12.02b - Rotations in the Coordinate Pl/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/12.02b - Rotations in the Coordinate Pl/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 92560
+    },
+    {
+     "path": "12.02b - Rotations in the Coordinate Pl/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/12.02b - Rotations in the Coordinate Pl/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 99337
+    },
+    {
+     "path": "12.02b - Rotations in the Coordinate Pl/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/12.02b - Rotations in the Coordinate Pl/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 95254
+    },
+    {
+     "path": "12.02b - Rotations in the Coordinate Pl/Examples/04 - Example 4.pdf",
+     "thumb": "thumbs/12.02b - Rotations in the Coordinate Pl/Examples/04 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Example 4",
+     "bytes": 84899
+    },
+    {
+     "path": "12.02b - Rotations in the Coordinate Pl/Examples/05 - Example 4.pdf",
+     "thumb": "thumbs/12.02b - Rotations in the Coordinate Pl/Examples/05 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Example 4",
+     "bytes": 70899
+    }
+   ]
+  },
+  {
+   "page": "12-02c-dilations-in-the-coordinate-plane.html",
+   "heading": "12.02c",
+   "title": "Dilations in the Coordinate Plane",
+   "folder": "12.02c - Dilations in the Coordinate Pl",
+   "combined": {
+    "path": "12.02c - Dilations in the Coordinate Pl/12.02c - all cards.pdf",
+    "bytes": 675759
+   },
+   "files": [
+    {
+     "path": "12.02c - Dilations in the Coordinate Pl/Learn/01 - Sign - Dilations in the Coordinate Plane.pdf",
+     "thumb": "thumbs/12.02c - Dilations in the Coordinate Pl/Learn/01 - Sign - Dilations in the Coordinate Plane.jpg",
+     "activity": "Learn",
+     "label": "Dilations in the Coordinate Plane",
+     "bytes": 18118
+    },
+    {
+     "path": "12.02c - Dilations in the Coordinate Pl/Learn/02 - Identifying a Dilation About the Origin.pdf",
+     "thumb": "thumbs/12.02c - Dilations in the Coordinate Pl/Learn/02 - Identifying a Dilation About the Origin.jpg",
+     "activity": "Learn",
+     "label": "Identifying a Dilation About the Origin",
+     "bytes": 82077
+    },
+    {
+     "path": "12.02c - Dilations in the Coordinate Pl/Learn/03 - Identifying a Dilation About the Origin.pdf",
+     "thumb": "thumbs/12.02c - Dilations in the Coordinate Pl/Learn/03 - Identifying a Dilation About the Origin.jpg",
+     "activity": "Learn",
+     "label": "Identifying a Dilation About the Origin",
+     "bytes": 88774
+    },
+    {
+     "path": "12.02c - Dilations in the Coordinate Pl/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/12.02c - Dilations in the Coordinate Pl/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 100363
+    },
+    {
+     "path": "12.02c - Dilations in the Coordinate Pl/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/12.02c - Dilations in the Coordinate Pl/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 78949
+    },
+    {
+     "path": "12.02c - Dilations in the Coordinate Pl/Examples/03 - Example 3.pdf",
+     "thumb": "thumbs/12.02c - Dilations in the Coordinate Pl/Examples/03 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 92350
+    },
+    {
+     "path": "12.02c - Dilations in the Coordinate Pl/Examples/04 - Example 3.pdf",
+     "thumb": "thumbs/12.02c - Dilations in the Coordinate Pl/Examples/04 - Example 3.jpg",
+     "activity": "Examples",
+     "label": "Example 3",
+     "bytes": 95335
+    },
+    {
+     "path": "12.02c - Dilations in the Coordinate Pl/Examples/05 - Example 4.pdf",
+     "thumb": "thumbs/12.02c - Dilations in the Coordinate Pl/Examples/05 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Example 4",
+     "bytes": 122149
+    },
+    {
+     "path": "12.02c - Dilations in the Coordinate Pl/Examples/06 - Example 4.pdf",
+     "thumb": "thumbs/12.02c - Dilations in the Coordinate Pl/Examples/06 - Example 4.jpg",
+     "activity": "Examples",
+     "label": "Example 4",
+     "bytes": 134188
+    }
+   ]
+  },
+  {
+   "page": "12-03a-proportionality-in-similar-figures.html",
+   "heading": "12.03a",
+   "title": "Proportionality in Similar Figures",
+   "folder": "12.03a - Proportionality in Similar Fig",
+   "combined": {
+    "path": "12.03a - Proportionality in Similar Fig/12.03a - all cards.pdf",
+    "bytes": 188108
+   },
+   "files": [
+    {
+     "path": "12.03a - Proportionality in Similar Fig/Learn/01 - Sign - Proportionality in Similar Figures.pdf",
+     "thumb": "thumbs/12.03a - Proportionality in Similar Fig/Learn/01 - Sign - Proportionality in Similar Figures.jpg",
+     "activity": "Learn",
+     "label": "Proportionality in Similar Figures",
+     "bytes": 19735
+    },
+    {
+     "path": "12.03a - Proportionality in Similar Fig/Learn/02 - What Are Similar Triangles.pdf",
+     "thumb": "thumbs/12.03a - Proportionality in Similar Fig/Learn/02 - What Are Similar Triangles.jpg",
+     "activity": "Learn",
+     "label": "What Are Similar Triangles?",
+     "bytes": 75480
+    },
+    {
+     "path": "12.03a - Proportionality in Similar Fig/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/12.03a - Proportionality in Similar Fig/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 71340
+    },
+    {
+     "path": "12.03a - Proportionality in Similar Fig/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/12.03a - Proportionality in Similar Fig/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 72445
+    }
+   ]
+  },
+  {
+   "page": "12-03b-similar-triangles-in-real-world-problems.html",
+   "heading": "12.03b",
+   "title": "Similar Triangles in Real-World Problems",
+   "folder": "12.03b - Similar Triangles in Real-Worl",
+   "combined": {
+    "path": "12.03b - Similar Triangles in Real-Worl/12.03b - all cards.pdf",
+    "bytes": 123170
+   },
+   "files": [
+    {
+     "path": "12.03b - Similar Triangles in Real-Worl/Learn/01 - Sign - Similar Triangles in Real-World Problems.pdf",
+     "thumb": "thumbs/12.03b - Similar Triangles in Real-Worl/Learn/01 - Sign - Similar Triangles in Real-World Problems.jpg",
+     "activity": "Learn",
+     "label": "Similar Triangles in Real-World Problems",
+     "bytes": 18839
+    },
+    {
+     "path": "12.03b - Similar Triangles in Real-Worl/Examples/01 - Example 1.pdf",
+     "thumb": "thumbs/12.03b - Similar Triangles in Real-Worl/Examples/01 - Example 1.jpg",
+     "activity": "Examples",
+     "label": "Example 1",
+     "bytes": 67580
+    },
+    {
+     "path": "12.03b - Similar Triangles in Real-Worl/Examples/02 - Example 2.pdf",
+     "thumb": "thumbs/12.03b - Similar Triangles in Real-Worl/Examples/02 - Example 2.jpg",
+     "activity": "Examples",
+     "label": "Example 2",
+     "bytes": 69544
+    }
+   ]
+  }
+ ]
+}
